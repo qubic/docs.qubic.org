@@ -1,0 +1,2 @@
+# Arbitrator
+An entity within the Qubic ecosystem responsible for resolving disputes and protecting user interests. The arbitrator sets parameters of the mining algorithm, publishes lists of computors every epoch, is developing the capacity to replace faulty computors, and accumulates QUs not received by underperforming computors. Each node operator individually selects their arbitrator by setting the corresponding ID in Qubic.cpp. The entity controlling the current arbitrator remains unknown, though rumors suggest it's operated by the development team.
