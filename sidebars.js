@@ -143,6 +143,7 @@ const sidebars = {
       label: 'Advanced Concepts',
       items: [
         'developers/oracles',
+        'developers/qpi',
       ],
     },
     {
