@@ -34,6 +34,15 @@ Key highlights include:
 - Integration capability with real-world data using Qubic's oracles.
 - While QUs are used in Smart Contract execution, it remains cost-free for users due to self-financing from its IPO. However, there's flexibility, as contracts can charge users QUs for specialized services.
 
+## Voting rules
+- A proposal with less than 451 valid votes is invalid.
+- A valid vote is one with index above 0 and matching one of the options from the proposal.
+- A proposal with duplicate options or option indices outside of [1; 7] range is invalid.
+- Options must be sorted and listed without gaps starting from option #1 (e.g. "5 = yes / 2 = no" is invalid options for a proposal).
+- The result of a proposal is the option which has got strictly more than 50% of valid votes.
+- If none of the options has got more than 50% then another proposal should be published with two most popular options only, in some cases if #1/#2 places are shared by several options more voting steps may be needed.
+- The computor which publishes a proposal isn't allowed to vote that epoch with the only exception: The first option from the published proposal is taken as own computor's vote.
+
 ## The Road Ahead
 With the robust Qubic blockchain combined with the adaptability of Smart Contracts, developers are armed with an unparalleled toolkit. As the Qubic framework grows, its Smart Contracts are set to diversify and expand their influence.
 
