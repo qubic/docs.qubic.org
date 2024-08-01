@@ -153,6 +153,8 @@ const sidebars = {
         'api/rpc',
         'developers/library-typescript',
         'developers/qubic-node',
+        'developers/qubic-cli',
+        'developers/library-go',
       ],
     },
     // {
