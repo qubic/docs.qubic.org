@@ -154,20 +154,20 @@ const sidebars = {
         'developers/rust-api'
       ],
     },
-    {
-      type: 'category',
-      label: 'Community Bounties',
-      items: [
-        'developers/draft/logo',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Implemented Proposals',
-      items: [
-        'developers/empty',
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Community Bounties',
+    //   items: [
+    //     'developers/draft/logo',
+    //   ],
+    // },
+    // {
+    //   type: 'category',
+    //   label: 'Implemented Proposals',
+    //   items: [
+    //     'developers/empty',
+    //   ],
+    // },
     {
       type: 'category',
       label: 'Tutorials',
@@ -190,7 +190,6 @@ const sidebars = {
       label: 'Core API',
       items: [
         'api/rpc',
-        'api/transactions',
       ],
     },
   ],
