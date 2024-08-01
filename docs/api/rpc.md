@@ -4,9 +4,6 @@ title: JSON RPC API
 ## Qubic RPC
 The Qubic RPC is your gateway to the Qubic Network. For testing purposes, you can use https://testapi.qubic.org as baseUrl.
 
-> [Swagger/OpenAPI Documentation](qubic-rpc-doc.html)
-
-> Learn how to operate your own RPC Server for Qubic: [How to build your own Qubic RPC Server](how-to-qubic-rpc.md)
 
 ### Public available RPC/API's
 
@@ -24,8 +21,6 @@ To partner up with Qubic from a perspective of an exchange, there are two main a
 
 ### TX Based Workflow
 This is the classical way you may already know from other blockchains. You can do block scans for deposits and send transactions via RPC call to the network.
-
-> [Read more about the TX Based Workflow](tx-based-use-case.md).
 
 For the transaction based approach, Qubic offers a RPC Server. Please ask us for detailed information and access.
 
