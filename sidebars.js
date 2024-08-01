@@ -155,6 +155,7 @@ const sidebars = {
         'developers/qubic-node',
         'developers/qubic-cli',
         'developers/library-go',
+        'developers/library-http',
       ],
     },
     {
@@ -162,6 +163,13 @@ const sidebars = {
       label: 'Integration',
       items: [
         'developers/integration',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Grants',
+      items: [
+        'developers/grants',
       ],
     },
     // {
