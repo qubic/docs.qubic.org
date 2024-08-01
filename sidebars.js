@@ -157,6 +157,13 @@ const sidebars = {
         'developers/library-go',
       ],
     },
+    {
+      type: 'category',
+      label: 'Integration',
+      items: [
+        'developers/integration',
+      ],
+    },
     // {
     //   type: 'category',
     //   label: 'Community Bounties',
