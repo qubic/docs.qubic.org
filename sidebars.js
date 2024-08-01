@@ -175,6 +175,13 @@ const sidebars = {
         'developers/environment',
       ],
     },
+    {
+      type: 'category',
+      label: 'Libraries',
+      items: [
+        'developers/library-typescript',
+      ],
+    },
     'developers/bug-bounty',
   ],
   apiSidebar: [

@@ -143,6 +143,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/qubic_network',
               },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/qubic_network',
+              },
             ],
           },
           {
