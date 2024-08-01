@@ -137,10 +137,6 @@ const config = {
           {
             title: 'Community',
             items: [
-              // {
-              //   label: 'Stack Overflow',
-              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              // },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/2vDMR8m',
@@ -152,15 +148,27 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Official Links',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Careers',
+                href: 'https://qubic.org/careers',
+              },
+              {
+                label: 'Explorer',
+                href: 'https://explorer.qubic.org/',
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/qubic/docs',
+              },
+              {
+                label: 'Qubic Website',
+                href: 'https://qubic.org/',
+              },
+              {
+                label: 'Wallet',
+                href: 'https://wallet.qubic.org/',
               },
             ],
           },
