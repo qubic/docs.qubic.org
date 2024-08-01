@@ -2,7 +2,7 @@
 title: Typescript
 ---
 
-# Qubic Typescript Library
+# Typescript Library
 A [TS Library](https://github.com/qubic/ts-library) to communicate with the Qubic Network.
 
 ## Overview
