@@ -1,3 +1,7 @@
+---
+sidebar_label: 'Invest in Qubic'
+---
+
 # How to Invest in Qubic
 
 In order to invest in Qubic, there are several steps you need to follow. This guide will walk you through the process.

@@ -1,3 +1,6 @@
+---
+sidebar_label: 'Dutch Auction'
+---
 # Dutch Auction
 
 In a Dutch auction, the price of the shares is not predetermined. Instead, it's the investors who dictate the price through their bids, providing a more dynamic pricing mechanism.

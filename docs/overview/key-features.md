@@ -2,24 +2,69 @@
 sidebar_label: 'Key Features'
 ---
 
-# Key Features
+## Key Features of Qubic
 
-## Open-Source
-Qubic is built on open-source principles. This means that its source code is freely available for anyone to review, modify and enhance. Open-source fosters a collaborative environment where developers across the world can contribute to the evolution of the project, making it a community-driven platform.
+Qubic introduces several innovative features that set it apart from traditional blockchain platforms. These features are designed to address common challenges in the cryptocurrency space and provide a more efficient, sustainable, and user-friendly ecosystem.
 
-## Useful Proof-of-Work
-Unlike traditional Proof-of-Work mechanisms that solely secure the network, Qubic's Useful PoW not only helps determine the ranking of Computors for each epoch but also contributes to AI training. This dual-purpose approach optimizes computational resources, ensuring no energy is wasted.
+### 1. Useful Proof-of-Work (UPoW)
 
-## Operating System Independent
-Qubic's design allows it to operate directly on bare metal without needing an operating system. This contributes to efficient use of the hardware, heightened security, and speedy execution of tasks.
+Qubic implements a novel consensus mechanism called Useful Proof-of-Work (UPoW), which addresses the energy consumption concerns associated with traditional Proof-of-Work systems.
 
-## Sub-second Finality
-Qubic offers real sub-second finality, meaning the confirmation of transactions and the execution of smart contracts is practically instantaneous. Unlike many other platforms that can take several seconds or even minutes to achieve finality, Qubic's efficiency and speed are unparalleled.
+- **AI Training Integration**: Instead of solving arbitrary mathematical problems, miners contribute to AI training tasks.
+- **Solution Submission**: Miners develop and submit valid Artificial Neural Networks (ANNs) as 'Solutions'.
+- **Computor Selection**: These Solutions act as score points for selecting Computors (network validators).
 
-## Fastest Smart Contracts
-The smart contracts in Qubic, written in C++, execute directly on bare metal, ensuring they are some of the fastest in the blockchain industry. This quick execution significantly reduces transaction times, making Qubic an ideal platform for businesses that require real-time, reliable smart contract execution.
+This approach ensures that the computational power used for mining serves a practical purpose beyond just securing the network.
 
-## Speed & Security
-The design of Qubic has been meticulously optimized for speed and security. Operating directly on bare metal and in UEFI mode, Qubic is able to leverage the full potential of the underlying hardware, ensuring a high level of efficiency and performance. Unlike traditional systems that work through multiple layers of software and hardware, Qubic's direct interaction with the hardware allows it to bypass any potential bottlenecks and latency issues, leading to rapid execution of tasks. 
+### 2. Feeless Transfers
 
-Furthermore, this approach also enhances the security of Computors by reducing the attack surface typically associated with complex software layers. As a result, transactions are processed, and smart contracts executed, in an extremely timely manner. The Qubic network is specifically optimized for speed, both in terms of network transmission and computational execution, delivering a fast, secure, and efficient platform for users. This level of speed optimization sets Qubic apart from many other crypto platforms, further solidifying its standing as a groundbreaking blockchain technology.
+Qubic offers feeless transfers within its network, addressing a significant pain point in many blockchain ecosystems.
+
+- **Zero Transaction Fees**: Users can send Qubic Units (QUs) without incurring any transaction costs.
+- **Microtransaction Enablement**: This feature makes microtransactions economically viable, opening up new use cases for the platform.
+
+### 3. High-Speed Smart Contracts
+
+Qubic boasts some of the fastest Turing-complete smart contracts in the blockchain space.
+
+- **C++ Implementation**: Smart contracts are written in C++, allowing for full utilization of computing power.
+- **Execution Speed**: Contracts can be executed in mere seconds, significantly faster than many competing platforms.
+- **Scalability**: The high-speed execution enables more complex and resource-intensive applications to run on the network.
+
+### 4. Decentralized Applications (DApps)
+
+The Qubic platform supports the creation and deployment of decentralized applications (DApps).
+
+- **Diverse Use Cases**: Developers can build a wide range of applications, from financial services to social networks and games.
+- **Scalability**: The platform's high-speed transactions and smart contract execution enable DApps to handle large user bases and complex operations.
+
+### 5. Oracle Integration
+
+Qubic incorporates oracles to bridge the gap between blockchain and real-world data.
+
+- **Real-World Data Integration**: Oracles allow smart contracts to access and utilize external data sources.
+- **Enhanced Utility**: This feature expands the potential use cases for smart contracts, enabling them to react to real-world events and conditions.
+
+### 6. Epoch-Based Processing
+
+Qubic operates on a weekly epoch system, providing regular opportunities for network updates and evaluations.
+
+- **Weekly Cycles**: Each epoch lasts for one week.
+- **Computor Evaluation**: Computors are evaluated based on their performance in AI tasks during each epoch.
+- **Network Flexibility**: This system allows for regular adjustments and improvements to the network.
+
+### 7. Sub-Second Finality
+
+Qubic achieves remarkably fast transaction finality, enhancing the user experience and enabling time-sensitive applications.
+
+- **Rapid Confirmation**: Transactions and smart contracts are confirmed in less than a second.
+- **Security**: Fast finality reduces the risk of double-spending and other time-based attacks.
+
+### 8. Open-Source Development
+
+Qubic embraces open-source principles, fostering transparency and community involvement.
+
+- **GitHub Repository**: All Qubic code is available on GitHub for public review and contribution.
+- **Community Collaboration**: This approach invites global developers to contribute to the project's development and innovation.
+
+By combining these features, Qubic aims to create a more efficient, sustainable, and user-friendly blockchain ecosystem that can support a wide range of applications and use cases.

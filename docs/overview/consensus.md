@@ -2,22 +2,60 @@
 sidebar_label: 'Qubic Consensus'
 ---
 
-# Qubic Consensus aka Quorum
+## Qubic Consensus Mechanism
 
-Consensus is integral to maintaining harmony within a network of computers (known as Computors in Qubic), allowing them to agree on specific decisions. In the context of Qubic, this consensus primarily pertains to the execution of transfers and smart contracts. Qubic's unique consensus protocol hinges on a quorum-based computation (QBC) system, which necessitates agreement from ⅔+ (or 451+) of the 676 Computors to validate the outcome of a calculation, referred to as [Quorum](/learn/quorum).
+The Qubic network employs a unique and innovative consensus mechanism that combines elements of traditional blockchain systems with advanced distributed computing concepts. This section provides a detailed overview of the Qubic consensus mechanism, its key components, and how it ensures network security and efficiency.
 
-Only the top-performing 676 [Computors](/learn/nodes), determined by the number of solutions their AI miners find, qualify for each epoch (a period of one week). This Usefull Proof-of-Work mechanism thereby provides a system of ranking where the more solutions a Computor's miner can find, the higher its ranking. However, this mining operation is solely for the purpose of establishing their ranking, not for transaction validation as in traditional blockchain systems.
+### Quorum-based Consensus Model
 
-Once qualified for an epoch, a Computor's role is to execute transactions on the Spectrum (the Qubic equivalent of a ledger) and execute smart contracts. However, to earn revenue, these Computors must demonstrate high performance in terms of speed and network compatibility. They are required to swiftly process transactions and be recognized by their fellow Computors in the network. Failure to keep up with the network's speed will result in them being ousted from their position, ensuring only the most efficient machines participate in the decision-making process.
+At the core of Qubic's consensus mechanism is a **quorum-based model**, which draws inspiration from research by renowned computer scientists Nick Szabo and Leslie Lamport. This model is designed to achieve agreement among a distributed set of nodes in an efficient and secure manner.
 
-The end result is a consensus protocol that maintains an equilibrium between computational work and operational efficiency. This consensus mechanism ensures a decentralized, adaptable, and high-performance blockchain network, that upholds the integrity and accuracy of the Spectrum.
+#### Key Components:
 
-Key Features Include:
+1. **Computors**: The network consists of 676 special nodes called Computors, which are responsible for validating transactions and maintaining the network's integrity.
 
-- **Trustworthiness**: In Qubic, the consensus guarantees reliability as it mandates the majority agreement before a finalization, reducing the chances of errors and maintaining the integrity of the shared Spectrum.
+2. **Quorum Thresholds**:
+   - To implement changes: At least 451 Computors (2/3 majority) must agree.
+   - To maintain status quo: A minimum of 226 Computors (1/3 + 1) is required.
 
-- **Adaptive**: The Qubic consensus protocol is designed to be highly adaptive to ensure the network operates at peak performance. The system continually reassesses and ranks the Computors based on the solutions discovered by their AI miners during each epoch. Only the 676 most efficient Computors qualify to participate in the consensus process. Those unable to keep up with the network's pace are replaced, ensuring the network consistently comprises the most capable Computors. This adaptiveness creates a dynamic environment that values and rewards efficiency and performance.
+3. **Arbitrator**: An entity that oversees Computor behavior and publishes the list of active Computors for each epoch. The Arbitrator is not controlled by the Quorum, ensuring an additional layer of checks and balances.
 
-- **Decentralization**: True decentralization is a cornerstone of the Qubic platform. All major decisions, including validation of transfers and smart contract outcomes, are made through a quorum of 451+ Computors, rather than being controlled by a single entity. Moreover, the Administrator has no influence over smart contract execution, voting, or Qubic units (qus) distribution. This structure maintains a balance of power and prevents any single party from dominating the network, keeping the system genuinely decentralized and democratic.
+### Consensus Process
 
-In short, Qubic's consensus protocol contributes to a reliable, efficient, and democratic blockchain environment, setting it apart from many existing platforms.
+1. **Transaction Submission**: Users submit transactions to the network.
+2. **Computor Validation**: Computors receive and validate these transactions.
+3. **Quorum Agreement**: For a transaction to be confirmed, it must be agreed upon by the required quorum of Computors.
+4. **Finality**: Once the quorum is reached, the transaction is considered final and irreversible.
+
+### Advantages of Qubic's Consensus Mechanism
+
+1. **High Performance**: The system achieves absolute finality within seconds, significantly faster than many traditional blockchain networks.
+
+2. **Enhanced Security**: The quorum-based approach makes it extremely difficult to execute attacks such as 51% attacks or double-spends.
+
+3. **No Forks**: Unlike proof-of-work systems, Qubic's consensus mechanism does not allow for chain forks, ensuring a single, consistent state of the network.
+
+4. **Increased Decentralization**: With 676 Computors and constant competition for these positions, Qubic achieves a higher level of decentralization compared to many proof-of-work cryptocurrencies.
+
+### Useful Proof-of-Work (UPoW)
+
+While not directly part of the consensus mechanism, Qubic incorporates a **Useful Proof-of-Work (UPoW)** system for Computor selection:
+
+- Miners compete by contributing computational power to AI-related tasks.
+- This process serves a dual purpose:
+  1. Selecting Computors for the next epoch.
+  2. Advancing AI research and development.
+
+### Example: Consensus in Action
+
+To illustrate how the consensus mechanism works, consider the following scenario:
+
+1. A user initiates a transaction to transfer 100 QUs to another address.
+2. The transaction is broadcast to the network and received by the Computors.
+3. Each Computor independently validates the transaction (checking balance, signature, etc.).
+4. If at least 451 Computors agree that the transaction is valid, it is confirmed and added to the network's state.
+5. The transaction is now final and cannot be reversed or altered.
+
+### Conclusion
+
+Qubic's consensus mechanism represents a significant advancement in distributed ledger technology. By combining a quorum-based system with innovative features like UPoW, Qubic achieves a balance of security, efficiency, and decentralization that sets it apart in the cryptocurrency landscape.

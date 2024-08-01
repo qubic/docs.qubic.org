@@ -1,3 +1,7 @@
+---
+sidebar_label: 'Initial Public Offering (IPO)'
+---
+
 # Initial Public Offering (IPO) (Draft)
 
 In the world of finance, an Initial Public Offering (IPO) refers to the process of offering shares of a private corporation to the public in a new stock issuance. In the Qubic universe, this concept has been creatively leveraged to facilitate the distribution and trading of digital assets on the Qubic network. 
