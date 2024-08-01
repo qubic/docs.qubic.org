@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
         Explore how Qubic combines the best aspects of existing platforms and eradicates their limitations."
       </>
     ),
-    link: '/learn/overview',
+    link: '/learn/basics/overview',
   },
   {
     title: 'Become a Computor',
@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
         Learn more about the potential of Qubic and embark on an exciting investment journey.
       </>
     ),
-    link: '/learn/invest',
+    link: '/learn/user guide/invest',
   },
 ];
 

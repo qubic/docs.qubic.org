@@ -21,7 +21,7 @@ The visual identity of any project, especially a logo, plays a significant role 
 5. **Revision:** Should the need arise, one round of revision will be provided based on the community's feedback.
 
 ## Compensation
-The potential impact of this work on Qubic's brand identity and visibility is considerable. Please note, the actual compensation for this project is not predetermined. Rather, it will be determined by the Qubic [Quorum](/learn/quorum) voting process upon satisfactory delivery of the finalized logo and all related deliverables. The Quorum will evaluate the completed work and vote on the amount of QUs to be rewarded based on its perceived value to the community. This approach ensures a fair compensation reflective of the community's appreciation and value perception.
+The potential impact of this work on Qubic's brand identity and visibility is considerable. Please note, the actual compensation for this project is not predetermined. Rather, it will be determined by the Qubic [Quorum](/learn/governance/quorum) voting process upon satisfactory delivery of the finalized logo and all related deliverables. The Quorum will evaluate the completed work and vote on the amount of QUs to be rewarded based on its perceived value to the community. This approach ensures a fair compensation reflective of the community's appreciation and value perception.
 
 This approach keeps the focus on the Quorum's decision-making process and the value it places on the completed work, rather than a pre-defined budget.
 

@@ -26,6 +26,6 @@ The successful execution of an IPO within the Qubic network underlines the adapt
 
 Moreover, the ability to conduct an IPO using Qubic's smart contract technology demonstrates the robustness of the network's infrastructure and its suitability for a diverse range of financial applications.
 
-In the Qubic ecosystem, [Dutch Auctions](/learn/dutch-auction) are integral to the Initial Public Offering (IPO) of smart contracts. By utilizing a Dutch auction mechanism, Qubic ensures a fair and transparent bidding process where the highest bidder acquires the offering. This method allows participants to bid at the price they believe the offering is worth, potentially leading to a more accurate valuation compared to traditional methods.
+In the Qubic ecosystem, [Dutch Auctions](/learn/advanced concepts/dutch-auction) are integral to the Initial Public Offering (IPO) of smart contracts. By utilizing a Dutch auction mechanism, Qubic ensures a fair and transparent bidding process where the highest bidder acquires the offering. This method allows participants to bid at the price they believe the offering is worth, potentially leading to a more accurate valuation compared to traditional methods.
 
 Dutch auctions are part of Qubic's commitment to create a democratic and open environment, where market forces determine the price of offerings and every participant has an equal opportunity to contribute and benefit from the network's growth. This approach promotes fairness, inclusivity, and efficiency within the Qubic community.

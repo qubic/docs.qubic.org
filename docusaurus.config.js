@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: 'Learn',
-                to: '/learn/overview',
+                to: '/learn/basics/overview',
               },
               {
                 label: 'Computors',
