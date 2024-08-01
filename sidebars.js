@@ -151,7 +151,8 @@ const sidebars = {
       label: 'Clients',
       items: [
         'api/rpc',
-        'developers/rust-api'
+        'developers/library-typescript',
+        'developers/qubic-node',
       ],
     },
     // {
@@ -173,13 +174,6 @@ const sidebars = {
       label: 'Tutorials',
       items: [
         'developers/environment',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Libraries',
-      items: [
-        'developers/library-typescript',
       ],
     },
     'developers/bug-bounty',
