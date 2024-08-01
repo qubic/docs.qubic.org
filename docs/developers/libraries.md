@@ -1,5 +1,5 @@
 ---
-title: Libraries
+title: Typescript
 ---
 
 # Qubic Typescript Library

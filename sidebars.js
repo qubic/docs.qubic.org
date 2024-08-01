@@ -154,6 +154,16 @@ const sidebars = {
         'developers/rust-api'
       ],
     },
+
+    {
+      type: 'category',
+      label: 'Libraries',
+      items: [
+        'developers/libraries',
+      ],
+    },
+
+
     {
       type: 'category',
       label: 'Community Bounties',
