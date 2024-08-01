@@ -20,3 +20,19 @@ The archive system consists of two services:
 - **qubic-nodes**: A service responsible for providing information regarding reliable nodes and the max tick of the network.
 
 For full documentation, please visit the [Qubic Archiver GitHub repository](https://github.com/qubic/go-archiver).
+
+# Go Qubic Nodes Service
+
+The purpose of the qubic-nodes service is to continuously check node reliability and provide, upon request, a list of reliable nodes.
+
+For full documentation, please visit the [Qubic Go Nodes Service GitHub repository](https://github.com/qubic/go-qubic-nodes).
+
+# Go Node Fetcher
+
+For full documentation, please visit the [Go Node Fetcher GitHub repository](https://github.com/qubic/go-node-fetcher).
+
+# Go SchnorrQ
+
+Schnorr signature on FourQ for Qubic.
+
+For full documentation, please visit the [Go SchnorrQ GitHub repository](https://github.com/qubic/go-schnorrq).

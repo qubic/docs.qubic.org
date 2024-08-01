@@ -156,6 +156,7 @@ const sidebars = {
         'developers/qubic-cli',
         'developers/library-go',
         'developers/library-http',
+        'developers/library-csharp',
       ],
     },
     {
