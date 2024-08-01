@@ -1,9 +1,9 @@
 ---
-title: Qubic Grant Program
+title: Grants Program
 ---
 
-# Qubic Grant Program
+# Grants Program
 
-The Qubic Grants Program aims to foster the development of high-quality smart contracts and solutions that enhance the Qubic ecosystem.
+The Grants Program aims to foster the development of high-quality smart contracts and solutions that enhance the Qubic ecosystem.
 
 For full documentation, please visit the [Qubic Grants Program GitHub repository](https://github.com/qubic/grants).

@@ -1,8 +1,8 @@
 ---
-title: C# Qubic Library
+title: C# Libraries
 ---
 
-# C# Qubic Library
+# C# Library
 
 The C# Qubic Library provides tools to interact with the Qubic Network.
 

@@ -1,8 +1,8 @@
 ---
-title: Qubic HTTP Service
+title: Http Libraries
 ---
 
-# Qubic HTTP Service
+# Http Library
 
 The qubic-http service acts as a bridge to the Qubic Network. Some of its features include:
 

@@ -1,16 +1,16 @@
 ---
-title: Go Qubic Library
+title: Go Libraries
 ---
 
-# Go Qubic Library
+# Go Library
 
 The Go Qubic Library provides tools to interact with a blockchain-based betting system. It includes functionalities for client interactions, data type conversions, bet management, date parsing, wallet management, and cryptographic operations.
 
 For full documentation, please visit the [Go Qubic Library GitHub repository](https://github.com/qubic/go-qubic).
 
-# Qubic Archiver Service
+# Go Archiver Service
 
-The Qubic Archiver Service's purpose is to store and make available data regardless of the current epoch.
+The Go Qubic Archiver Service's purpose is to store and make available data regardless of the current epoch.
 
 ## High Level Description
 
@@ -21,7 +21,7 @@ The archive system consists of two services:
 
 For full documentation, please visit the [Qubic Archiver GitHub repository](https://github.com/qubic/go-archiver).
 
-# Go Qubic Nodes Service
+# Go Nodes Service
 
 The purpose of the qubic-nodes service is to continuously check node reliability and provide, upon request, a list of reliable nodes.
 

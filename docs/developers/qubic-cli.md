@@ -2,7 +2,7 @@
 title: Qubic CLI
 ---
 
-# Qubic CLI
+# Qubic Core Client
 
 Qubic Core client - An intermediate tool to communicate with the Qubic Core node.
 
