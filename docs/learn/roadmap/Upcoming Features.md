@@ -2,7 +2,7 @@
 sidebar_label: 'Upcoming Features'
 ---
 
-## Upcoming Features
+# Upcoming Features
 
 Qubic is committed to continuous improvement and innovation. The following features are currently in development and are expected to be implemented in the near future:
 

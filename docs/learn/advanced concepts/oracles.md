@@ -2,7 +2,7 @@
 sidebar_label: 'Oracles'
 ---
 
-## Oracles in Qubic
+# Oracles in Qubic
 
 ### Introduction to Oracles
 

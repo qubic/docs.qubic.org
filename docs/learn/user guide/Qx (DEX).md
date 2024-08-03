@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'Qx'
+sidebar_label: 'Qx (DEX)'
 ---
 
-## Qx: Qubic's Decentralized Exchange
+# Qx: Qubic's Decentralized Exchange
 
 Qx is a groundbreaking decentralized exchange (DEX) built on the Qubic network. It represents a significant advancement in the cryptocurrency trading ecosystem, leveraging Qubic's unique features to offer unparalleled speed, security, and efficiency.
 

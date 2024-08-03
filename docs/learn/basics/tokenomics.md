@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Tokenomics'
 ---
-## Tokenomics
+# Tokenomics
 
 Tokenomics refers to the economic model and mechanisms governing a cryptocurrency or token within its ecosystem. In the case of Qubic, the tokenomics are designed to create a balanced and sustainable economic system that supports the network's growth and functionality.
 

@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'future developments'
+sidebar_label: 'Future Developments'
 ---
 
-## Future Developments
+# Future Developments
 
 The Qubic project is committed to continuous innovation and improvement. This section outlines the key areas of focus for future development, providing insights into the project's roadmap and potential advancements.
 

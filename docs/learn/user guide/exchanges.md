@@ -2,7 +2,7 @@
 sidebar_label: 'Exchanges'
 ---
 
-## Exchanges and Trading
+# Exchanges and Trading
 
 The Qubic (QUBIC) token is available for trading on various cryptocurrency exchanges, providing users with multiple options for acquiring and trading QUBIC. This section provides an overview of the exchanges where QUBIC is listed and introduces the project's native decentralized exchange.
 

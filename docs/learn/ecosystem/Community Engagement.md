@@ -2,7 +2,7 @@
 sidebar_label: 'Community Engagement'
 ---
 
-## Community Engagement
+# Community Engagement
 
 Community engagement is a crucial aspect of the Qubic ecosystem, fostering collaboration, innovation, and decentralized governance. This section outlines the various mechanisms and initiatives that enable active participation from Qubic community members.
 

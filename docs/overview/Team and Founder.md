@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'team and founder'
+sidebar_label: 'Team and Founder'
 ---
 
-## Team and Founder
+# Team and Founder
 
 ### Founder: Sergey Ivancheglo (CFB)
 

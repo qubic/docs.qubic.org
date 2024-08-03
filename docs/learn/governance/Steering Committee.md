@@ -2,7 +2,7 @@
 sidebar_label: 'Steering Committee'
 ---
 
-## Steering Committee (SteCo)
+# Steering Committee (SteCo)
 
 The Steering Committee, commonly referred to as SteCo, is a crucial governance body within the Qubic ecosystem. It plays a vital role in guiding the project's development and ensuring that the community's interests are represented in key decisions.
 

@@ -2,7 +2,7 @@
 sidebar_label: 'Separation of Power'
 ---
 
-## Separation of Power in the Qubic Ecosystem
+# Separation of Power in the Qubic Ecosystem
 
 The Qubic ecosystem implements a robust separation of power structure to ensure decentralization, security, and efficient governance. This system is designed to prevent any single entity from having undue control over the network while maintaining operational efficiency.
 

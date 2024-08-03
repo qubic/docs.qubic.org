@@ -2,7 +2,7 @@
 sidebar_label: 'Grants Program'
 ---
 
-## Qubic Grants Program
+# Qubic Grants Program
 
 The Qubic Grants Program is a strategic initiative designed to foster innovation, attract talented developers, and accelerate the growth of the Qubic ecosystem. This program aims to provide financial support and resources to individuals and teams working on projects that enhance and expand the capabilities of the Qubic network.
 

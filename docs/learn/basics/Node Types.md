@@ -2,7 +2,7 @@
 sidebar_label: 'Node Types'
 ---
 
-## Node Types in the Qubic Network
+# Node Types in the Qubic Network
 
 The Qubic network consists of various node types, each playing a crucial role in maintaining the network's integrity, security, and functionality. Understanding these node types is essential for grasping the overall architecture of the Qubic ecosystem.
 

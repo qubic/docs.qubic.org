@@ -2,7 +2,7 @@
 sidebar_label: 'Community and Adoption'
 ---
 
-## Community and Adoption
+# Community and Adoption
 
 The Qubic project has garnered significant attention and support from the cryptocurrency and blockchain community. This section provides an overview of Qubic's community engagement and adoption metrics.
 

@@ -2,7 +2,7 @@
 sidebar_label: 'Environmental Impact'
 ---
 
-## Environmental Impact
+# Environmental Impact
 
 The Qubic network has been designed with environmental sustainability in mind, addressing one of the most significant criticisms of traditional blockchain technologies: excessive energy consumption. This section explores how Qubic's innovative approach contributes to a more eco-friendly blockchain ecosystem.
 

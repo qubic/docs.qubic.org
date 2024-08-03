@@ -2,7 +2,7 @@
 sidebar_label: 'Proposals'
 ---
 
-## Proposals in the Qubic Ecosystem
+# Proposals in the Qubic Ecosystem
 
 ### Introduction to Proposals
 

@@ -2,7 +2,7 @@
 sidebar_label: 'Decision Making'
 ---
 
-## Decision Making in the Qubic Ecosystem
+# Decision Making in the Qubic Ecosystem
 
 The Qubic ecosystem employs a sophisticated and decentralized approach to decision-making, ensuring that the network remains resilient, adaptable, and aligned with the interests of its community. This section outlines the key components and processes involved in Qubic's decision-making framework.
 

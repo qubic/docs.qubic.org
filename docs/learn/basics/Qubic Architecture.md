@@ -2,7 +2,7 @@
 sidebar_label: 'Qubic Architecture'
 ---
 
-## Architecture
+# Architecture
 
 The Qubic network architecture is designed to provide a high-performance, scalable, and secure distributed ledger system. This section outlines the key components and concepts that form the foundation of Qubic's innovative architecture.
 

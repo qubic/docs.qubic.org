@@ -2,7 +2,7 @@
 sidebar_label: 'Qubic Consensus'
 ---
 
-## Qubic Consensus Mechanism
+# Qubic Consensus Mechanism
 
 The Qubic network employs a unique and innovative consensus mechanism that combines elements of traditional blockchain systems with advanced distributed computing concepts. This section provides a detailed overview of the Qubic consensus mechanism, its key components, and how it ensures network security and efficiency.
 

@@ -2,7 +2,7 @@
 sidebar_label: 'Spectrum'
 ---
 
-## Spectrum: The Backbone of Qubic's State Management
+# Spectrum: The Backbone of Qubic's State Management
 
 ### Introduction to the Spectrum
 

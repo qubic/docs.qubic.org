@@ -2,7 +2,7 @@
 sidebar_label: 'Arbitrator'
 ---
 
-## Arbitrator
+# Arbitrator
 
 The Arbitrator is a crucial component of the Qubic ecosystem, serving as a supervisory entity that ensures the proper functioning and integrity of the network. This role is distinct from traditional blockchain systems and plays a vital part in Qubic's unique architecture.
 

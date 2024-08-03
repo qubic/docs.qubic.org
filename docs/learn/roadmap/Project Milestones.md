@@ -2,7 +2,7 @@
 sidebar_label: 'Project Milestones'
 ---
 
-## Project Milestones
+# Project Milestones
 
 The Qubic project has established a series of significant milestones to guide its development and growth. These milestones serve as key indicators of progress and provide a roadmap for the project's future. Below, we outline the major milestones achieved and those planned for the near future.
 

@@ -2,7 +2,7 @@
 sidebar_label: 'Usefull Proof of Work'
 ---
 
-## Useful Proof of Work (UPoW)
+# Useful Proof of Work (UPoW)
 
 ### Introduction
 

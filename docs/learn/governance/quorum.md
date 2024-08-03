@@ -2,7 +2,7 @@
 sidebar_label: 'Quorum'
 ---
 
-## Quorum Consensus Mechanism
+# Quorum Consensus Mechanism
 
 The Qubic network employs a unique consensus mechanism known as **Quorum**, which forms the backbone of its decentralized decision-making process. This system ensures network security, transaction validation, and protocol updates through a collaborative approach.
 

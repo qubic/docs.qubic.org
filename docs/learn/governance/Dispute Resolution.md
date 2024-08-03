@@ -2,7 +2,7 @@
 sidebar_label: 'Dispute Resolution'
 ---
 
-## Dispute Resolution in the Qubic Network
+# Dispute Resolution in the Qubic Network
 
 ### Introduction
 

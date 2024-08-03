@@ -2,7 +2,7 @@
 sidebar_label: 'Hackathons'
 ---
 
-## Hackathons
+# Hackathons
 
 Hackathons play a crucial role in the Qubic ecosystem's growth and development strategy. These time-bound, collaborative events bring together developers, designers, and innovators to create innovative solutions and applications within the Qubic network.
 

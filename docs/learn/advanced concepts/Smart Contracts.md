@@ -2,7 +2,7 @@
 sidebar_label: 'Smart Contracts'
 ---
 
-## Smart Contracts
+# Smart Contracts
 
 Smart contracts are self-executing agreements with the terms of the contract directly written into code. In the Qubic ecosystem, smart contracts play a crucial role in enabling complex, automated transactions and decentralized applications (DApps).
 

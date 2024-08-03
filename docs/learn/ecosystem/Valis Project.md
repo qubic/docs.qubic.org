@@ -1,4 +1,8 @@
-## Valis Project
+---
+sidebar_label: 'Valis Project'
+---
+
+# Valis Project
 
 The Valis Project is a community-driven initiative that plays a crucial role in supporting and enhancing the Qubic ecosystem. It exemplifies the principles of decentralization and continuous improvement that are fundamental to the Qubic philosophy.
 

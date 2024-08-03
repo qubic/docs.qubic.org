@@ -2,7 +2,7 @@
 sidebar_label: 'Key Features'
 ---
 
-## Key Features of Qubic
+# Key Features of Qubic
 
 Qubic introduces several innovative features that set it apart from traditional blockchain platforms. These features are designed to address common challenges in the cryptocurrency space and provide a more efficient, sustainable, and user-friendly ecosystem.
 
