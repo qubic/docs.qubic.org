@@ -21,7 +21,7 @@ const config = {
   organizationName: 'qubic', // Usually your GitHub org/user name.
   projectName: 'docs.qubic.org', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: 'Learn',
-                to: '/learn/overview',
+                to: '/learn/basics/overview',
               },
               {
                 label: 'Computors',

@@ -4,8 +4,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
 import styles from './index.module.css';
+import Redirects from './_redirects';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -32,6 +32,7 @@ export default function Home(): JSX.Element {
     <Layout
       title={`${siteConfig.title}`}
       description="Learn everything about Qubic you need to know.">
+      <Redirects />
       <HomepageHeader />
       <main>
         <HomepageFeatures />

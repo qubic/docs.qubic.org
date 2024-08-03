@@ -14,7 +14,7 @@ Whether you're coding the next big smart contract or helping to spread the word 
 
 ## How we fund these projects
 
-The Computor Controlled Fund (CCF) is a communal resource designed to support and facilitate the growth of the Qubic ecosystem. The fund allocates resources to approved projects that aim to expand the capabilities, reach, or efficiency of the Qubic network. Any community member can propose a project for funding and the projects are chosen based on the votes of the community members (see how [Proposal](/learn/proposals) work). The idea behind the CCF is to enable quick definition of project proposals and release of budgets by the community.
+The Computor Controlled Fund (CCF) is a communal resource designed to support and facilitate the growth of the Qubic ecosystem. The fund allocates resources to approved projects that aim to expand the capabilities, reach, or efficiency of the Qubic network. Any community member can propose a project for funding and the projects are chosen based on the votes of the community members (see how [Proposal](/learn/governance/proposals) work). The idea behind the CCF is to enable quick definition of project proposals and release of budgets by the community.
 
 :::info
 Remember, the CCF belongs to all of us. Let's work together to continue developing and growing the Qubic ecosystem!

@@ -1,27 +1,77 @@
 ---
-sidebar_label: 'What is Qubic?'
-sidebar_position: 1
-title: 'What is Qubic?'
+sidebar_label: 'Introduction'
 ---
 
-# Introducing Qubic: The Future of Crypto Platforms
+# Introduction to Qubic
 
-:::info
+## Overview
 
-The Qubic documentation is currently in public preview and may change significantly as feedback is captured from readers like you. Join the Qubic [Discord](https://discord.gg/2vDMR8m) to share your feedback in the #docs channel.
+Qubic is an innovative distributed ledger technology (DLT) platform that aims to revolutionize the cryptocurrency and blockchain landscape. Founded by Sergey Ivancheglo, a prominent figure in the cryptocurrency space known for his contributions to IOTA and NXT, Qubic introduces several groundbreaking concepts to address common challenges in existing blockchain systems.
 
-:::
+## Core Components
 
-Get ready to dive into Qubic, an innovative crypto platform that's changing the game. Founded by Sergey Ivancheglo, the mastermind behind IOTA and NXT, Qubic is revolutionizing the world of cryptocurrency with its quorum-based computer (QBC) system.
+### Quorum-based Computer (QBC) System
 
-At its core, Qubic is powered by 676 [Computors](/learn/nodes) responsible for executing smart contracts. The platform ensures reliability by requiring a [Quorum](/learn/quorum) of ⅔+ (or 451+) Computors to reach the same result before considering it final. Unlike traditional crypto platforms that consume massive amounts of energy for mining, Qubic boasts a [Useful Proof-of-Work](/learn/upow) system that leverages mining capacities for AI training.
+At the heart of Qubic lies its unique **quorum-based computer (QBC) system**. This system consists of 676 specialized nodes called **Computors**, which are responsible for:
 
-In addition to Computors, Qubic features Candidates, who contribute to AI training without receiving compensation. A weekly ranking, or "epoch," determines the top 451 performing Computors, who maintain their status while the remaining spots are filled from the pool of Candidates and lower-ranking Computors.
+1. Executing smart contracts
+2. Validating transactions
+3. Maintaining network consensus
 
-Each epoch generates 1 trillion [Qubic Units](/learn/tokenomics) (QUs) to be distributed primarily among Computors. Inefficient Computors and Miners have a portion of their rewards burned, while the remainder goes to the [Arbitrator](/learn/arbitrator). Notably, the Arbitrator's role is limited to managing AI training tasks and has no influence over smart contracts, voting, or qus distribution.
+The QBC system employs a quorum-based consensus mechanism, which requires agreement from a majority of Computors to approve network changes. This approach offers several advantages:
 
-Qubic sets itself apart with feeless transfers, a rarity among crypto platforms. While executing smart contracts typically incurs a commission, Computors vote by quorum to set the commission size, which is then burned to regulate inflation and deflation.
+- Enhanced security against attacks
+- Improved scalability compared to traditional blockchain systems
+- Faster transaction finality
 
-Thanks to Qubic's direct "bare metal" code execution, it boasts the fastest Turing-complete smart contracts written in C++. As opposed to virtual machine-based platforms, Qubic's approach allows for full utilization of computing power, enabling smart contract execution in mere seconds.
+### Qubic Units (QUs)
 
-In essence, Qubic combines the best features of existing platforms and eliminates their limitations, making it an ideal choice for those seeking a reliable, efficient, and user-friendly crypto platform.
+**Qubic Units (QUs)** serve as the native cryptocurrency within the Qubic ecosystem. These digital tokens play multiple roles:
+
+- Medium of exchange for transactions
+- Fuel for smart contract execution
+- "Energy" within the network
+
+QUs are designed to facilitate seamless value transfer and computational resource allocation within the Qubic platform.
+
+## Key Innovations
+
+### Useful Proof-of-Work (UPoW)
+
+Qubic introduces a novel consensus mechanism called **Useful Proof-of-Work (UPoW)**. Unlike traditional Proof-of-Work systems that consume energy solely for network security, UPoW redirects computational power towards practical applications, such as:
+
+- Training artificial intelligence models
+- Solving complex scientific problems
+- Contributing to distributed computing projects
+
+This approach aims to make the energy consumption of the network more purposeful and environmentally friendly.
+
+### Feeless Transfers
+
+In contrast to many blockchain networks that charge transaction fees, Qubic offers **feeless transfers** within its ecosystem. This feature enables:
+
+- Microtransactions without prohibitive costs
+- More inclusive financial services for users in developing economies
+- New business models that were previously impractical due to transaction fees
+
+### High-Speed Smart Contracts
+
+Qubic boasts some of the fastest **Turing-complete smart contracts** in the blockchain space. These contracts are written in C++, allowing for:
+
+- Full utilization of computing power
+- Execution times measured in seconds rather than minutes
+- Complex decentralized applications (DApps) with near-real-time responsiveness
+
+### Oracles and Real-World Data Integration
+
+To bridge the gap between blockchain and real-world data, Qubic incorporates **oracle** functionality. This feature allows smart contracts to:
+
+- Access external data sources
+- Make decisions based on real-world events
+- Interact with traditional systems and databases
+
+## Conclusion
+
+Qubic represents a significant leap forward in distributed ledger technology, combining innovative consensus mechanisms, high-speed operations, and practical applications of blockchain resources. By addressing key limitations of existing systems, Qubic aims to unlock new possibilities for decentralized computing, finance, and artificial intelligence integration.
+
+As the project continues to evolve, it holds the potential to reshape the landscape of cryptocurrencies and blockchain technology, offering a more efficient, sustainable, and versatile platform for the future of decentralized systems.
