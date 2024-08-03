@@ -43,13 +43,6 @@ const config = {
 
           // Remove this to remove the "edit this page" links.
           // editUrl: 'https://github.com/qubic/docs',
-          beforeDefaultRemarkPlugins: [
-            [
-              require('@docusaurus/remark-plugin-npm2yarn'),
-              {sync: true},
-            ],
-          ],
-          id2label: (id) => id.replaceAll('-', ' '),
         },
         blog: {
           showReadingTime: true,

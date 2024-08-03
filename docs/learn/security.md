@@ -2,7 +2,7 @@
 sidebar_label: 'Security'
 ---
 
-## Security Measures in Qubic
+# Security Measures in Qubic
 
 Security is a paramount concern in any blockchain or distributed ledger technology. Qubic implements a multi-faceted approach to ensure the integrity, confidentiality, and availability of its network. This section outlines the key security measures employed by Qubic.
 

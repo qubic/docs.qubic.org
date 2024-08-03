@@ -2,7 +2,7 @@
 sidebar_label: 'Disclaimer'
 ---
 
-## Disclaimer
+# Disclaimer
 
 This section provides important information regarding the use and interpretation of the Qubic project documentation. Please read carefully.
 
