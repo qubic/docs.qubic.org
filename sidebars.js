@@ -151,23 +151,42 @@ const sidebars = {
       label: 'Clients',
       items: [
         'api/rpc',
-        'developers/rust-api'
+        'developers/library-typescript',
+        'developers/qubic-node',
+        'developers/qubic-cli',
+        'developers/library-go',
+        'developers/library-http',
+        'developers/library-csharp',
       ],
     },
     {
       type: 'category',
-      label: 'Community Bounties',
+      label: 'Integration',
       items: [
-        'developers/draft/logo',
+        'developers/integration',
       ],
     },
     {
       type: 'category',
-      label: 'Implemented Proposals',
+      label: 'Grants',
       items: [
-        'developers/empty',
+        'developers/grants',
       ],
     },
+    // {
+    //   type: 'category',
+    //   label: 'Community Bounties',
+    //   items: [
+    //     'developers/draft/logo',
+    //   ],
+    // },
+    // {
+    //   type: 'category',
+    //   label: 'Implemented Proposals',
+    //   items: [
+    //     'developers/empty',
+    //   ],
+    // },
     {
       type: 'category',
       label: 'Tutorials',
@@ -183,7 +202,6 @@ const sidebars = {
       label: 'Core API',
       items: [
         'api/rpc',
-        'api/transactions',
       ],
     },
   ],

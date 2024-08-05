@@ -97,8 +97,6 @@ const config = {
             docId: 'api',
             position: 'left',
           },
-          
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/qubic/docs',
             label: 'GitHub',
@@ -137,10 +135,6 @@ const config = {
           {
             title: 'Community',
             items: [
-              // {
-              //   label: 'Stack Overflow',
-              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              // },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/2vDMR8m',
@@ -149,18 +143,34 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/qubic_network',
               },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/qubic_network',
+              },
             ],
           },
           {
-            title: 'More',
+            title: 'Official Links',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Careers',
+                href: 'https://qubic.org/careers',
+              },
+              {
+                label: 'Explorer',
+                href: 'https://explorer.qubic.org/',
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/qubic/docs',
+              },
+              {
+                label: 'Qubic Website',
+                href: 'https://qubic.org/',
+              },
+              {
+                label: 'Wallet',
+                href: 'https://wallet.qubic.org/',
               },
             ],
           },
