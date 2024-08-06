@@ -154,6 +154,7 @@ const sidebars = {
         'developers/library-typescript',
         'developers/qubic-node',
         'developers/qubic-cli',
+        'developers/client-qubicj-shell',
         'developers/library-go',
         'developers/library-http',
         'developers/library-csharp',
@@ -164,6 +165,7 @@ const sidebars = {
       label: 'Integration',
       items: [
         'developers/integration',
+        'developers/library-java',
       ],
     },
     {
