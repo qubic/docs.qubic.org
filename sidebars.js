@@ -1,5 +1,15 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
+  overviewSidebar: [
+    'overview/introduction',
+    'overview/key-features',
+    'overview/qubic-consensus',
+    'overview/team-and-founder',
+    'overview/future-developments',
+    'overview/community-and-adoption',
+    'overview/disclaimer',
+  ],
+  
   learnSidebar: [
     {
       type: 'category',
@@ -25,6 +35,7 @@ const sidebars = {
         'learn/governance/decision-making',
         'learn/governance/dispute-resolution',
         'learn/governance/updates-and-changes',
+        'learn/governance/computer-controlled-fund',
       ],
     },
     {
@@ -47,6 +58,7 @@ const sidebars = {
         'learn/advanced-concepts/aigarth',
         'learn/advanced-concepts/oracles',
         'learn/advanced-concepts/environmental-impact',
+        'learn/advanced-concepts/protocol-extension',
       ],
     },
     {
@@ -81,16 +93,6 @@ const sidebars = {
       ],
     },
     'learn/security',
-  ],
-  
-  overviewSidebar: [
-    'overview/introduction',
-    'overview/key-features',
-    'overview/qubic-consensus',
-    'overview/team-and-founder',
-    'overview/future-developments',
-    'overview/community-and-adoption',
-    'overview/disclaimer',
   ],
 
   compSidebar: [
