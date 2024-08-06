@@ -58,6 +58,14 @@ The Steering Committee (SteCo) plays a vital role in coordinating CCF activities
 
 4. **Open Communication Channels**: Dedicated channels for community members to share ideas and proposals directly with the team.
 
+### QEarn: Community-Driven Yield Initiative
+
+QEarn is a new community-driven initiative designed to offer attractive yields for staking QUBIC:
+
+- Aims to reduce circulating supply and encourage long-term engagement
+- Includes QUBIC reward redistributions and burns as a result of early withdrawals
+- Designed to create upward pressure on QUBIC price over time
+
 ### Getting Involved
 
 Community members can participate in the Qubic ecosystem through various means:
@@ -70,5 +78,6 @@ Community members can participate in the Qubic ecosystem through various means:
 - **Feedback Provision**: Participate in beta testing of new features and provide valuable user feedback.
 - **Educational Engagement**: Follow and participate in Qubic's initiative to demystify AI and Aigarth technology.
 - **Event Attendance**: Participate in Qubic-related events, such as Global Qubic Summits and community gatherings.
+- **Staking**: Participate in the QEarn initiative by staking QUBIC tokens.
 
 By fostering a vibrant and engaged community, Qubic aims to create a truly decentralized ecosystem that harnesses collective intelligence for continuous innovation and growth.

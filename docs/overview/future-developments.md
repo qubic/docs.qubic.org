@@ -6,6 +6,29 @@ sidebar_label: 'Future Developments'
 
 The Qubic project is committed to continuous innovation and improvement. This section outlines the key areas of focus for future development, providing insights into the project's roadmap and potential advancements.
 
+### Project X
+
+Project X is a major enhancement initiative for the Qubic ecosystem, designed to create a balanced and thriving environment. It consists of four main components:
+
+1. **Protocol Extension**
+   - Allows computors to reallocate a percentage of their weekly emissions to beneficial projects
+   - Promotes adaptable and community-driven decision-making
+   - Enhances system flexibility and resource allocation
+
+2. **New Emission Model**
+   - Introduces a 15% reduction in emissions, followed by yearly halvings
+   - Targets a max supply cap of 200 trillion QUBIC
+   - Balances emissions and burns for sustainable growth
+
+3. **Computor Controlled Fund (CCF)**
+   - Serves as the treasury for essential activities (e.g., software development, marketing, grants)
+   - Proposes an 8% reallocation of weekly emissions to boost ecosystem growth
+
+4. **QEarn**
+   - Community-driven initiative offering yields for staking QUBIC
+   - Aims to reduce circulating supply and encourage long-term engagement
+   - Includes QUBIC reward redistributions and burns from early withdrawals
+
 ### 1. Optimization of Useful Proof-of-Work (UPoW)
 
 The Qubic team is actively working on enhancing the efficiency and utility of the UPoW mechanism:

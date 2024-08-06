@@ -50,7 +50,7 @@ To validate and monitor the development of Aigarth (Qubic's AI system), a Scient
    - Specializes in Artificial General Intelligence (AGI) research
    - Contracted to produce a research paper on Qubic and Aigarth
 
-2. **Dr. Sánchez-García**
+2. **Dr. José Sánchez-García**
    - Renowned neuroscientist, biotechnologist, and engineer
    - Interdisciplinary background in brain sciences
    - Author of 20 scientific papers in high-impact journals
@@ -64,3 +64,14 @@ The Scientific Advisory Committee serves several crucial functions:
 - Providing scientific backing for Qubic's claims to attract significant investment
 
 By incorporating a scientific advisory board, Qubic aims to bridge the gap between cutting-edge blockchain technology and academic rigor, ensuring that its innovations are grounded in sound scientific principles.
+
+### Steering Committee (SteCo)
+
+The Steering Committee (SteCo) is a governance body within the Qubic ecosystem that plays a vital role in guiding the project's development and ensuring that the community's interests are represented in key decisions. Key responsibilities of the SteCo include:
+
+- Managing and allocating resources from the ecosystem fund
+- Defining and implementing the strategic vision for Qubic
+- Acting as a bridge between the core development team and the wider Qubic community
+- Overseeing various aspects of the project, including governance, technology development, marketing efforts, and operational improvements
+
+The SteCo provides regular updates to the community and conducts strategy workshops to refine the project's direction and address emerging challenges or opportunities.

@@ -29,22 +29,28 @@ The Qubic project has established a series of significant milestones to guide it
 
 ### Upcoming Milestones
 
-1. **Aigarth AI Integration (Q3 2024)**
+1. **Project X Implementation (Q3 2024)**
+   - Launch of the Protocol Extension (mid to late August)
+   - Implementation of the new Emission Model (September 25th)
+   - Activation of the Computor Controlled Fund (CCF) (September 25th)
+   - Introduction of QEarn community initiative
+
+2. **Aigarth AI Integration (Q3-Q4 2024)**
    - Full integration of the Aigarth AI system with the Qubic network
    - Launch of decentralized AI training protocols
    - Implementation of AI-driven smart contracts
 
-2. **Scalability Enhancements (Q4 2024)**
+3. **Scalability Enhancements (Q4 2024)**
    - Optimization of the network to achieve sub-second finality
    - Implementation of sharding technology to increase transaction throughput
    - Upgrade of the consensus mechanism to support millions of transactions per second
 
-3. **Interoperability Protocol (Q1 2025)**
+4. **Interoperability Protocol (Q1 2025)**
    - Development of cross-chain communication protocols
    - Integration with other major blockchain networks (e.g., Ethereum, Polkadot)
    - Launch of a decentralized exchange (DEX) supporting cross-chain asset swaps
 
-4. **Enterprise Adoption Initiative (Q2 2025)**
+5. **Enterprise Adoption Initiative (Q2 2025)**
    - Release of enterprise-grade Qubic solutions
    - Establishment of partnerships with major corporations for real-world use cases
    - Launch of a dedicated support system for enterprise clients
@@ -58,5 +64,16 @@ To ensure transparency and accountability, the Qubic project employs a robust sy
 - **GitHub Tracking**: Technical milestones are tracked through GitHub issues and project boards, allowing for public visibility of development progress.
 - **Quarterly Reviews**: Comprehensive quarterly reviews are conducted to assess overall project advancement and adjust future milestones as needed.
 
-By adhering to this structured approach to milestone planning and tracking, the Qubic project aims to maintain a clear direction for development while remaining adaptable to the evolving needs of its ecosystem and the broader blockchain industry.
+### Key Dates for Project X
 
+- August 8th: Testing of protocol extension
+- August 8th: Blog post detailing the technical concepts of emissions and max cap
+- August 12th: Blog post on CCF outlining how it supports ecosystem growth
+- August 16th: Blog post detailing the technical concepts of the protocol extension
+- Mid to late August: Launch of Protocol Extension
+- September 4th: Smart contract proposals for emission model and CCF
+- September 11th: Smart contract IPOs
+- September 25th: First emissions to be received by CCF
+- September 25th: First emissions reduction
+
+By adhering to this structured approach to milestone planning and tracking, the Qubic project aims to maintain a clear direction for development while remaining adaptable to the evolving needs of its ecosystem and the broader blockchain industry.

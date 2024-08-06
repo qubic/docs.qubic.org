@@ -16,8 +16,8 @@ Qubic Units, abbreviated as QUs, are the native cryptocurrency of the Qubic ecos
 #### Key Metrics
 
 - **Circulating Supply**: 100 trillion QUs (10% of max supply)
-- **Maximum Supply**: 1,000 trillion QUs
-- **Weekly Emission**: 1 trillion QUs
+- **Maximum Supply**: 1,000 trillion QUs (subject to change with Project X)
+- **Weekly Emission**: 1 trillion QUs (subject to reduction with Project X)
 
 ### Token Generation and Distribution
 
@@ -66,18 +66,19 @@ This system incentivizes high performance and ensures that network resources are
 
 The Qubic team is developing a proposal called Project X, which aims to modify the current tokenomic model. The proposed changes include:
 
-1. **Supply Reduction**: Burning QUBIC to lower the total supply
-2. **Sustainable Financing**: Implementing mechanisms for long-term community effort funding
-3. **Increased Holding Incentives**: Making QUBIC more attractive as a long-term investment
+1. **Supply Reduction**: Targeting a max supply cap of 200 trillion QUBIC
+2. **Emission Reduction**: Implementing a 15% reduction in emissions, followed by yearly halvings
+3. **Sustainable Financing**: Implementing mechanisms for long-term community effort funding, including the Computor Controlled Fund (CCF)
+4. **Increased Holding Incentives**: Introducing QEarn, a community-driven initiative offering yields for staking QUBIC
 
 The proposed timeline for Project X is as follows:
 
-- Quorum Approval: Timeline dependent on consensus
 - Core Implementation: Expected by August
-- Smart Contract Proposal and Initial Public Offering (IPO): Targeted for September
+- Smart Contract Proposal and Initial Public Offering (IPO): Targeted for early September
+- First Emission Reduction: Planned for September 25th
 
 These changes, if implemented, could significantly impact the token's value proposition and the overall economic structure of the Qubic ecosystem.
 
 ### Conclusion
 
-Qubic's tokenomics model is designed to create a balanced ecosystem that supports network growth, incentivizes participation, and potentially provides value appreciation for token holders. The combination of regular token generation, performance-based distribution, and a burning mechanism creates a dynamic economic system. As with any cryptocurrency project, potential participants should carefully consider the tokenomic structure and its implications before engaging with the ecosystem.
+Qubic's tokenomics model is designed to create a balanced ecosystem that supports network growth, incentivizes participation, and potentially provides value appreciation for token holders. The combination of regular token generation, performance-based distribution, and a burning mechanism creates a dynamic economic system. The proposed changes under Project X aim to further refine this model for long-term sustainability and growth. As with any cryptocurrency project, potential participants should carefully consider the tokenomic structure and its implications before engaging with the ecosystem.
