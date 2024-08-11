@@ -150,14 +150,10 @@ const sidebars = {
       type: 'category',
       label: 'Clients',
       items: [
-        'api/rpc',
-        'developers/library-typescript',
         'developers/qubic-node',
         'developers/qubic-cli',
         'developers/client-qubicj-shell',
-        'developers/library-go',
-        'developers/library-http',
-        'developers/library-csharp',
+        'api/rpc',
       ],
     },
     {
@@ -166,6 +162,10 @@ const sidebars = {
       items: [
         'developers/integration',
         'developers/library-java',
+        'developers/library-typescript',
+        'developers/library-go',
+        'developers/library-http',
+        'developers/library-csharp',
       ],
     },
     {
