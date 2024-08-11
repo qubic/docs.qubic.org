@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
         Learn more about the potential of Qubic and embark on an exciting investment journey.
       </>
     ),
-    link: '/learn/exchanges',
+    link: '/learn/investor',
   },
 ];
 
