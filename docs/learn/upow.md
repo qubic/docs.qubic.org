@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Usefull Proof of Work'
+sidebar_label: 'Useful Proof of Work'
 ---
 
 # Useful Proof of Work (UPoW) and Artificial Intelligence (AI) in the Qubic Ecosystem
