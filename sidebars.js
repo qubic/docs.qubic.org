@@ -79,9 +79,9 @@ const sidebars = {
       type: 'category',
       label: 'How to buy',
       items: [
+        'learn/exchanges',
         'learn/invest',
         'learn/wallets',
-        'learn/exchanges',
         'learn/qx',
       ],
     },
