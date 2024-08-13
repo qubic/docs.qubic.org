@@ -31,3 +31,16 @@ Community members are encouraged to take an active role in the review process, a
 Decisions on proposals are made democratically, through a voting process involving quorums. If a proposal gains support from the majority, it is accepted and moves onto the implementation phase.
 
 Remember, the proposal process is a chance for you to help shape the future of Qubic. Your ideas and opinions matter, so don't hesitate to get involved!
+
+## The voting Basics & Rules
+- **A proposal consits** of an **URL** where the proposal is documented. This Website should be somthing that **cannot be altered**. Explain what you propose and show which options the computors can choose from.
+- A proposal can have up to **7 options** to vote for and **must be sorted without gaps, duplicates** make the proposal **invalid**.
+- Proposals and ballots are **valid only per epoch** (lifetime)
+- Per **epoch and computor** only **one** proposal is allowed per epoch
+- A **computor that has proposed** anything is **not allowed to participate** in voting for this epoch. But the first option from the published proposal is taken as own computor's vote.
+- Proposals and ballots are **published when** the **computor** is **tick leader** (in the worst case, you need to wait 676 ticks to see your votes counting)
+- The **peer where the computor seed is running** must be in the **latest tick** to issue a vote
+- A proposal with **less than 451** votes is **invalid**
+- A **valid** vote is one that votes for **one of the given options** in the proposal
+- The **result** of a proposal is the option which has got scrictly more or equal than **50% (226 votes)** of Quorum (451)
+- If **none** of the options has got the minimum votes (226), then **another proposal** should be published with the **two most popular** options only. In some cases if #1/#2 places are shared by several options more voting steps may be needed
