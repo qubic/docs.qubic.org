@@ -1,7 +1,8 @@
 ---
 title: Introduction to Qubic
-sidebar_label: Overview
+sidebar_label: Home
 slug: /
+hide_sidebar: true
 ---
 
 <head>
@@ -16,11 +17,10 @@ slug: /
   <meta property="og:url" content="https://qubic.org/docs" />
 </head>
 
+
 Qubic is an innovative crypto platform that's changing the game. Founded by Sergey Ivancheglo, the mastermind behind IOTA and NXT, Qubic is revolutionizing the world of cryptocurrency with its quorum-based computer (QBC) system.
 
 Get started by [installing Qubic](intro/cli.md) or following our [First App Tutorial](intro/next.md#build-your-first-app) to learn the main concepts.
-
-<intro-end />
 
 ## Learn
 
@@ -32,4 +32,8 @@ To get an introduction to Qubic and its key features, visit the [Overview sectio
 
 ## Developers
 
-For developers looking to contribute or integrate with Qubic, visit the [
+For developers looking to contribute or integrate with Qubic, visit the [Developers section](developers/intro.md). This includes resources on integration, smart contracts, and the Qubic CLI.
+
+## Computors
+
+For information on running a Computor in the Qubic network, visit the [Computors section](computors/installation.md). This includes details on installation, challenges, and the role of Computors in the network.
