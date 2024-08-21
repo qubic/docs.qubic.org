@@ -178,6 +178,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      colorMode: {
+        defaultMode: 'dark', // Set dark mode as default
+        disableSwitch: false, // Allow users to switch between light and dark mode
+        respectPrefersColorScheme: false, // Ignore the user's system preference
+      },
       mermaid: {
         theme: {light: 'neutral', dark: 'forest'},
       },
