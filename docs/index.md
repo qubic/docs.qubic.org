@@ -23,9 +23,7 @@ Ready to dive in? Start here to learn the basics and set up your environment:
 
 [Introduction to Qubic](overview/introduction.md): Get a high-level overview of what Qubic is and how it works.
 
-[Install Qubic CLI](developers/qubic-cli.md): Step-by-step instructions to install the Qubic command-line interface.
-
-[How to Invest in Qubic](learn/invest.md): Learn about the various ways to invest in Qubic, including cryptocurrency exchanges and creating a Qubic wallet.
+[Create your Qubic Wallet](learn/invest.md): Learn about the various ways to invest in Qubic, including cryptocurrency exchanges and creating a Qubic wallet.
 ## Learn
 
 Expand your knowledge of the Qubic platform:
