@@ -9,17 +9,14 @@ In the world of Qubic, the utility (or coin) driving the ecosystem is not a mere
 ## Qubic Units (QUs)
 QUs act as a measurement of computational 'energy' spent on the Qubic platform. Whether it's running smart contracts or seeking data from oracles, the consumption of QUs is the bedrock of transactions within the system. It's vital to note that QUs, while having a value, are not 'paid' to the system entities ([Computors](/learn/nodes)). Instead, they are 'burned' or permanently removed from circulation, contributing to a balance between inflation and deflation in the Qubic economy.
 
-
 :::info
-
-The Qubic network utilizes $QUBIC (an not $QU) as its official financial ticker. 
-
+The Qubic network utilizes $QUBIC (and not $QU) as its official financial ticker. 
 :::
 
 ## Epoch and QU Generation
 Each epoch in the Qubic network spans seven days and produces 1 trillion QUs. These units are predominantly allocated to [Computors](/learn/nodes), the backbone nodes of the network. In scenarios of maximum efficiency, a Computor can potentially receive a revenue equivalent to 1 trillion QUs divided by 676 (i.e. 1.479 billion QUs). The distribution model is designed to encourage efficiency; Computors operating at suboptimal levels will witness a dip in their revenue. The remaining balance of QUs is assigned to the [Arbitrator](/learn/arbitrator). The Arbitrator plays no role in smart contract governance, voting or QU distribution, ensuring equilibrium within the Qubic economic framework.
 
-Regarding the overall supply, it isn't indefinite. The circulating coins are capped at 1000 trillion, excluding emission coins. A point will come in the future — no earlier than 2041 — where the burn rate will match or surpass the emission rate, causing a plateau in the circulating coins' growth. Nevertheless, miners are assured of their rewards in perpetuity. This guarantee stems from built-in economic drivers. Hypothetically, should Qubic ever approach having 999 trillion QUs in circulation, the quorum would initiate a weekly burn of 1 trillion QUs as execution fees, ensuring consistent revenue generation.
+Regarding the overall supply, it isn't indefinite. The circulating coins are capped at 200 trillion, as per a recent community decision to reduce the max supply from the original 1000 trillion. This reduction, which was voted and approved by the community (see the proposal [here](https://app.qubic.li/public/proposal/81ca1427-2ebc-4e78-a662-25a643f48292)), aims to boost the Qubic ecosystem and attract new entrepreneurs. Along with this reduction, an emission schedule has been implemented which will burn Qubic. For the first year, the reduction will be a maximum of 15% of emissions. Afterwards, Qubic will have a halving of emissions every year.
 
 ## Transfers and Fees
 Qubic stands apart from traditional systems with its approach to transfers and fees. Transfers within the Qubic network are **feeless**, contributing to the efficiency and user-friendly nature of the platform. Furthermore, 'fees' associated with executing smart contracts are not fees in the traditional sense. These QUs are burned and not given to Computors, further reinforcing the concept of QUs as 'energy' rather than money.
@@ -42,12 +39,8 @@ Execution of [smart contracts](/learn/smart-contracts) on Qubic typically requir
   </div>
 </details>
 
-
 :::info
-
 While QUs or Qubic Units can be seen as the native coin, [Qx](/learn/qx) shares are the first ever tokens deployed on the Qubic ecosystem.
 :::
-
-\_
 
 In essence, QUs serve as the lifeblood of the Qubic network, driving its operations, incentivizing efficiency, and maintaining a balance in the tokenomics through a system of rewards and burns. The unique role of QUs within the network design underlines the adaptive, efficient, and democratic nature of the Qubic platform.

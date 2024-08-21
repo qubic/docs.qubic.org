@@ -36,19 +36,19 @@ Expand your knowledge of the Qubic platform:
 
 [Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
 
-[Aigarth](learn/aigarth.md): Learn about the AI Garden project being developed on the Qubic network.
+[Aigarth](learn/aigarth.md): Learn about Aigarth project being developed on the Qubic network.
 
 ## Developer Resources
 
 Everything you need to start developing on Qubic:
 
 ## Clients
-- [Qubic Node](developers/qubic-node.md): Full Qubic node implementation. Find the source code and information [here](https://github.com/qubic/node).
+- [Qubic Node](developers/qubic-node.md): Full Qubic node implementation.
 - [Qubic CLI](developers/qubic-cli.md): Command-line interface for Qubic.
 - [Qubic RPC](api/rpc): Remote Procedure Call interface for Qubic.
 
 ## Integration
-- [Qubic Integration](developers/integration): Tools and resources for integrating Qubic.
+- [Qubic Integration](developers/integration): This Documentation is meant to describe how you can access the Qubic Network API or interact with the Qubic RPC.
 
 ## Libraries
 - [Java Libraries](developers/library-java.md): Libraries for Java development.
@@ -65,13 +65,14 @@ Everything you need to start developing on Qubic:
 
 Qubic is an open-source project that thrives on community involvement. If you’re interested in contributing, here’s how you can get started:
 
-•⁠  ⁠[Contribution Guide](developers/contribute): Learn how to contribute to Qubic’s codebase or documentation.
-•⁠  ⁠[Community Discussions](https://community.qubic.org): Join the conversation with other Qubic developers and users.
+⁠[Contribution Guide](developers/contribute): Learn how to contribute to Qubic’s codebase or documentation.
 
 ## Stay Updated
 
 Keep up with the latest news, updates, and development milestones:
 
-•⁠  ⁠[Qubic Blog](https://blog.qubic.org)
-•⁠  ⁠[Follow us on Twitter](https://twitter.com/qubic)
-•⁠  ⁠[Join our Discord](https://discord.gg/qubic)
+[Qubic Blog](https://blog.qubic.org)
+
+[Join our Discord](https://discord.gg/qubic)
+
+[GitHub Repository](https://github.com/qubic)
