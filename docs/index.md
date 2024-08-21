@@ -25,30 +25,47 @@ Ready to dive in? Start here to learn the basics and set up your environment:
 
 [Install Qubic CLI](developers/qubic-cli.md): Step-by-step instructions to install the Qubic command-line interface.
 
-
+[How to Invest in Qubic](learn/invest.md): Learn about the various ways to invest in Qubic, including cryptocurrency exchanges and creating a Qubic wallet.
 ## Learn
 
 Expand your knowledge of the Qubic platform:
 
-[Qubic Units](learn/qubic-units.md)
+[Tokenomics](learn/tokenomics.md): Understand the economic model and utility of Qubic Units (QUs) in the ecosystem.
 
 [Useful Proof of Work (uPoW)](learn/upow.md): Discover how uPoW underpins the security and efficiency of the system.
 
-[Quorum and Computors](learn/quorum-computors.md): Explore how Qubic's quorum-based computer system operates.
+[Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
+
+[Aigarth](learn/aigarth.md): Learn about the AI Garden project being developed on the Qubic network.
 
 ## Developer Resources
 
 Everything you need to start developing on Qubic:
 
-•⁠  ⁠[Developer Tools](developers/tools.md): Overview of the tools and libraries available for Qubic development.
-•⁠  ⁠[Smart Contracts](developers/smart-contracts.md): Learn how to write and deploy smart contracts on Qubic.
-•⁠  ⁠[APIs and SDKs](developers/apis-sdks.md): Explore the available APIs and SDKs to integrate Qubic with your applications.
+## Clients
+- [Qubic Node](developers/qubic-node.md): Full Qubic node implementation. Find the source code and information [here](https://github.com/qubic/node).
+- [Qubic CLI](developers/qubic-cli.md): Command-line interface for Qubic.
+- [Qubic RPC](api/rpc): Remote Procedure Call interface for Qubic.
+
+## Integration
+- [Qubic Integration](developers/integration): Tools and resources for integrating Qubic.
+
+## Libraries
+- [Java Libraries](developers/library-java.md): Libraries for Java development.
+- [Typescript Libraries](developers/library-typescript): Libraries for Typescript development.
+- [Go Libraries](developers/library-go.md): Libraries for Go development.
+- [Http Libraries](developers/library-http.md): Libraries for HTTP-based development.
+- [C# Libraries](developers/library-csharp.md): Libraries for C# development.
+
+## Development Programs
+- [Grants Program](developers/grants.md): Foster development of high-quality smart contracts and solutions.
+- [Bug Bounty Program](developers/bug-bounty.md): Contribute to Qubic's security by finding and reporting bugs.
 
 ## Contribute
 
 Qubic is an open-source project that thrives on community involvement. If you’re interested in contributing, here’s how you can get started:
 
-•⁠  ⁠[Contribution Guide](contribute/guide.md): Learn how to contribute to Qubic’s codebase or documentation.
+•⁠  ⁠[Contribution Guide](developers/contribute): Learn how to contribute to Qubic’s codebase or documentation.
 •⁠  ⁠[Community Discussions](https://community.qubic.org): Join the conversation with other Qubic developers and users.
 
 ## Stay Updated
