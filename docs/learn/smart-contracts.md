@@ -24,7 +24,6 @@ Before a Smart Contract's integration:
 - It must undergo a [proposal](/learn/proposals) voting by the quorum. Specifically, ⅔ of the 676 computors need to participate in the voting, with a majority required for contract acceptance.
 - The shares associated with the Smart Contract undergo an [IPO](/learn/ipo) using a [Dutch auction](/learn/dutch-auction) model.
 Spotlight on Qubic's Smart Contracts
-Qubic launched its journey with an IPO of 676 shares for a decentralized exchange termed [Qx](/blog/qx_auction). Also, Smart Contracts enable QUs burning for transaction costs, reminiscent of Ethereum's gas model. An instance saw the first Smart Contract obliterate over 10.18 trillion QUs — roughly 15% of the total available then. This signifies the deflationary nature of QUs via Smart Contracts on Qubic.
 
 ## Distinguishing Features
 Key highlights include:
