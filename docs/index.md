@@ -40,6 +40,8 @@ Expand your knowledge of the Qubic platform:
 
 Everything you need to start developing on Qubic:
 
+[Tutorials](developers/tutorials.md): Comprehensive guides and examples to help you get started with Qubic development.
+
 ## Clients
 - [Qubic Node](developers/qubic-node.md): Full Qubic node implementation.
 - [Qubic CLI](developers/qubic-cli.md): Command-line interface for Qubic.

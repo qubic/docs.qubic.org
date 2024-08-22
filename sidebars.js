@@ -192,7 +192,7 @@ const sidebars = {
       type: 'category',
       label: 'Tutorials',
       items: [
-        'developers/environment',
+        'developers/tutorials',
       ],
     },
     'developers/bug-bounty',

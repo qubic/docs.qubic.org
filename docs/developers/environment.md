@@ -1,3 +1,0 @@
-# Qubic environment
-
-TBD
