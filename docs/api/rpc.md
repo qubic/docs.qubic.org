@@ -131,3 +131,19 @@ Please note that these endpoints may be subject to updates. Always consult the [
 - **Method:** GET
 - **Endpoint:** `/block-height`
 - **Description:** Get the current block height.
+
+### 23. Get Latest Stats
+- **Method:** GET
+- **Endpoint:** `/v1/latest-stats`
+- **Description:** Get the latest statistics of the RPC server. The response includes the following data:
+  - `timestamp`: The current timestamp (e.g., "1724325433")
+  - `circulatingSupply`: The total number of QUs in circulation (e.g., "109929085175710")
+  - `activeAddresses`: The number of active addresses on the network (e.g., 477228)
+  - `price`: The current price of QU in USD (e.g., 0.000001743)
+  - `marketCap`: The current market capitalization in USD (e.g., "191606393")
+  - `epoch`: The current epoch number (e.g., 123)
+  - `currentTick`: The current tick number (e.g., 15511954)
+  - `ticksInCurrentEpoch`: The number of ticks that have occurred in the current epoch (e.g., 11954)
+  - `emptyTicksInCurrentEpoch`: The number of empty ticks in the current epoch (e.g., 287)
+  - `epochTickQuality`: The quality of ticks in the current epoch as a percentage (e.g., 97.59913)
+  - `burnedQus`: The total number of QUs that have been burned (e.g., "13070914824290")
