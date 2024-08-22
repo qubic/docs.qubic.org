@@ -21,26 +21,29 @@ Qubic is an innovative platform designed to revolutionize the world of decentral
 
 Ready to dive in? Start here to learn the basics and set up your environment:
 
-[Introduction to Qubic](overview/introduction.md): Get a high-level overview of what Qubic is and how it works.
+- [Introduction to Qubic](overview/introduction.md): Get a high-level overview of what Qubic is and how it works.
 
-[Create your Qubic Wallet](learn/invest.md): Learn about the various ways to invest in Qubic, including cryptocurrency exchanges and creating a Qubic wallet.
+- [Create your Qubic Wallet](learn/invest.md): Learn about the various ways to invest in Qubic, including cryptocurrency exchanges and creating a Qubic wallet.
 ## Learn
 
 Expand your knowledge of the Qubic platform:
 
-[Tokenomics](learn/tokenomics.md): Understand the economic model and utility of Qubic Units (QUs) in the ecosystem.
+- [Tokenomics](learn/tokenomics.md): Understand the economic model and utility of Qubic Units (QUs) in the ecosystem.
 
-[Useful Proof of Work (uPoW)](learn/upow.md): Discover how uPoW underpins the security and efficiency of the system.
+- [Useful Proof of Work (uPoW)](learn/upow.md): Discover how uPoW underpins the security and efficiency of the system.
 
-[Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
+- [Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
 
-[Aigarth](learn/aigarth.md): Learn about Aigarth project being developed on the Qubic network.
+- [Aigarth](learn/aigarth.md): Learn about Aigarth project being developed on the Qubic network.
 
 ## Developer Resources
 
 Everything you need to start developing on Qubic:
 
-[Tutorials](developers/tutorials.md): Comprehensive guides and examples to help you get started with Qubic development.
+## Tutorials
+
+
+- [Tutorials](developers/tutorials.md): Comprehensive guides and examples to help you get started with Qubic development.
 
 ## Clients
 - [Qubic Node](developers/qubic-node.md): Full Qubic node implementation.
@@ -65,14 +68,14 @@ Everything you need to start developing on Qubic:
 
 Qubic is an open-source project that thrives on community involvement. If you’re interested in contributing, here’s how you can get started:
 
-⁠[Contribution Guide](developers/contribute): Learn how to contribute to Qubic’s codebase or documentation.
+- [Contribution Guide](developers/contribute): Learn how to contribute to Qubic’s codebase or documentation.
 
 ## Stay Updated
 
 Keep up with the latest news, updates, and development milestones:
 
-[Qubic Blog](https://blog.qubic.org)
+- [Qubic Blog](https://blog.qubic.org)
 
-[Join our Discord](https://discord.gg/qubic)
+- [Join our Discord](https://discord.gg/qubic)
 
-[GitHub Repository](https://github.com/qubic)
+- [GitHub Repository](https://github.com/qubic)

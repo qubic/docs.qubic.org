@@ -1,6 +1,4 @@
-# Tutorials
-
-# Qubic Tutorials
+# All Tutorials
 
 We are currently working on adding more tutorials to this section. In the meantime, here are some key resources and tutorials for integrating with Qubic:
 
