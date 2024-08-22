@@ -39,14 +39,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/', // change routeBasePath to '/'
-
+          routeBasePath: '/', // Serve docs at the root
+          path: 'docs',
           // Remove this to remove the "edit this page" links.
           // editUrl: 'https://github.com/qubic/docs',
         },
-        blog: {
-          showReadingTime: true,
-        },
+        blog: false, // Disable the blog plugin
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -94,7 +92,6 @@ const config = {
             label: 'API',
             type: 'docSidebar',
             sidebarId: 'apiSidebar',
-            docId: 'api',
             position: 'left',
           },
           {
@@ -181,14 +178,19 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      colorMode: {
+        defaultMode: 'dark', // Set dark mode as default
+        disableSwitch: false, // Allow users to switch between light and dark mode
+        respectPrefersColorScheme: false, // Ignore the user's system preference
+      },
       mermaid: {
         theme: {light: 'neutral', dark: 'forest'},
       },
     }),
-    markdown: {
-      mermaid: true,
-    },
-    themes: ['@docusaurus/theme-mermaid'],
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
 };
 
 module.exports = config;

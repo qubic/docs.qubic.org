@@ -45,7 +45,7 @@ Regardless of how you choose to invest, you'll need a Qubic wallet to store your
 
 For those interested in additional information about the network, visit [qubic.li](https://app.qubic.li/network/transfers). Click on "Log In" (you can use prefilled data, no need to create an account for now) to see the network stats.
 
-## 5. Future Developments
+## 4. Future Developments
 
 Keep an eye out for the upcoming Qx exchange, which will be Qubic's own decentralized exchange. More information will be provided once it's ready to be launched.
 
