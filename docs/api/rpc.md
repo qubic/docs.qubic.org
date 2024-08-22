@@ -9,6 +9,10 @@ For full documentation, please visit the [Qubic Integrations Partner In GitHub r
 
 ### Public available RPC/API's
 
+:::caution
+Please note that these endpoints may be subject to updates. Always consult the [Qubic Integrations Partner GitHub repository](https://qubic.github.io/integration/Partners/) for the most up-to-date information and documentation.
+:::
+
 | Base Url | Version/State | Use Case |
 | -------- | ------- | ---- |
 | testapi.qubic.org  | V2 | Test RPC/API with the latest features. Use this in your development environment or to try out the latest features.    |
@@ -16,10 +20,6 @@ For full documentation, please visit the [Qubic Integrations Partner In GitHub r
 | rpc.qubic.org    | V1   | Public RPC/API for general purposes. Use this in your productive applications. |
 
 
-:::caution
-Please note that these endpoints may be subject to updates. Always consult the [Qubic Integrations Partner GitHub repository](https://qubic.github.io/integration/Partners/) for the most up-to-date information and documentation.
-
-:::
 ## RPC Endpoints
 
 ### 1. Get Latest Tick
