@@ -4,7 +4,7 @@ sidebar_position: 1
 title: 'What is Qubic?'
 ---
 
-# Introducing Qubic: The Future of Crypto Platforms
+# Introducing Qubic: The Future of Crypto
 
 :::info
 
