@@ -24,4 +24,4 @@ Learn how to query the balance of a specific address using the REQUEST_ENTITY wi
 This tutorial explains how to send a basic transaction to transfer $QBIC from one address to another using a BroadcastTransaction Packet with type 24:
 [Send Transaction Tutorial](https://github.com/qubic/integration/blob/main/Network/UseCases/SendTransaction.md)
 
-Stay tuned for more tutorials coming soon!
+Stay tuned for more tutorials coming soon! Halo
