@@ -4,7 +4,12 @@ sidebar_label: 'Useful Proof of Work'
 
 # Useful Proof of Work (UPoW) and Artificial Intelligence (AI) in the Qubic Ecosystem
 
-Proof of Work (PoW) is a fundamental concept employed across various computer sciences and particularly in the realm of cryptocurrencies, where it ensures the security and reliability of decentralized networks like Bitcoin. It accomplishes this by making the process of altering or creating fraudulent transactions computationally expensive and time-consuming. However, in the innovative Qubic ecosystem, we've introduced an exciting twist on the traditional PoW by integrating AI training as a means of achieving the same consensus, giving rise to a novel consensus mechanism: Useful Proof of Work (UPoW).
+Proof of Work (PoW) is a fundamental concept employed across various computer sciences and particularly in the realm of cryptocurrencies, where it ensures the security and reliability of decentralized networks like Bitcoin. 
+It accomplishes this by making the process of altering or creating fraudulent transactions computationally expensive and time-consuming. 
+However, in the innovative Qubic ecosystem, we've introduced an exciting twist on the traditional PoW by integrating AI training as a means of achieving the same consensus, 
+giving rise to a novel consensus mechanism: Useful Proof of Work (UPoW).
+
+THIS IS A TEST FROM PETER
 
 ## Traditional Proof of Work
 Proof of Work is essentially a competitive puzzle-solving process among computers. Whenever someone intends to make a transaction on the network, their computer must solve a complex mathematical puzzle. The first computer to solve the puzzle, or 'mine' the solution, gets the opportunity to validate the transaction and add it to a 'block' – a collection of transactions. This mining process is instrumental in preventing any single entity from controlling the network and ensures decentralized security.
