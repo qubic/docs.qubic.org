@@ -15,7 +15,7 @@ hide_sidebar: true
 
 # Welcome to Qubic Documentation
 
-Qubic is an innovative platform designed to revolutionize the world of decentralized computing and finance through its quorum-based computer (QBC) system. Whether you're a developer, researcher, or enthusiast, this documentation will guide you through everything you need to know to start building and contributing to the Qubic ecosystem.
+Qubic is an innovative platform designed to revolutionise the world of decentralised computing and finance through its quorum-based computer (QBC) system. Whether you're a developer, researcher, or enthusiast, this documentation will guide you through everything you need to know to start building and contributing to the Qubic ecosystem.
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ Expand your knowledge of the Qubic platform:
 
 - [Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
 
-- [Aigarth](learn/aigarth.md): Learn about Aigarth project being developed on the Qubic network.
+- [Aigarth](learn/aigarth.md): Learn about Aigarth being developed on the Qubic network.
 
 ## Developer Resources
 
