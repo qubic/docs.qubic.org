@@ -20,7 +20,7 @@ Following the feedback period, the proposed update is put to a vote. For a decis
 
 ## Implementation
 
-Once an update has been approved, it moves into the implementation phase. Developers work on incorporating the changes into the Qubic system. This might involve coding new features, optimizing existing ones, or fixing reported bugs.
+Once an update has been approved, it moves into the implementation phase. Developers work on incorporating the changes into the Qubic system. This might involve coding new features, optimising existing ones, or fixing reported bugs.
 
 ## Communication
 
