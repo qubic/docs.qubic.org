@@ -31,4 +31,4 @@ The fundamental block of Aigarth's special algorithm is the Helix logic gate. Th
 
 ## What's on the Horizon?
 
-Aigarth is dependent on Qubic, and the development milestones will be more explicit once Qubic is running. With its unique approach to solving AI problems, Aigarth represents a fascinating combination of distributed computing and artificial intelligence.
+With its unique approach to solving AI problems, Aigarth represents a fascinating combination of distributed computing and artificial intelligence.
