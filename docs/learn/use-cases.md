@@ -6,7 +6,7 @@ sidebar_label: 'Use Cases'
 
 Qubic, with its unique consensus mechanism and native token QU, opens up a range of exciting possibilities for developers, businesses, and end-users. Let's explore some of the primary use cases that make Qubic a pioneering platform in the realm of distributed computing and decentralised finance.
 
-# Decentralized Computing Power
+# Decentralised Computing Power
 Qubic harnesses the power of distributed systems to create a global supercomputer. Users across the globe can tap into this network for a plethora of computational needs, from running complex simulations to training AI models. Qubic's consensus mechanism ensures that the computational tasks are executed efficiently and securely, with the added benefit of utilising underused computational resources across the globe.
 
 # Smart Contracts
@@ -21,4 +21,11 @@ The Qubic ecosystem utilizes Useful Proof of Work (UPoW) in training Artificial 
 # Supply Chain and Logistics
 Qubic can be a game-changer in supply chain and logistics. With its fast, secure, and scalable platform, real-time tracking and automation of supply chains become feasible. Smart contracts can be used for automatic validation and execution of agreements, reducing errors, fraud, and inefficiencies in the system.
 
+# Potential Future Use Cases for Aigarth Running on Qubic
+Qubic’s decentralised network could host AIs as smart contracts, which can autonomously execute tasks, manage payments and enforce rules without needing a centralised authority.
+Miners would continue to provide the computational power needed for AI development.
+Developers could create and deploy AIs on the Qubic network. Aigarth will attract innovation, enabling companies to prototype, test, and deploy AI solutions that are more adaptable and efficient than have ever been seen before.
+Consumers could utilise these AIs, paying with QUBIC for services or accessing limited free services based on the amount of QUBIC they own. This would tie the use of AI services directly to the Qubic networks economy, incentivising the ownership and trading of QUBIC.
+
 Overall, Qubic's versatile platform unlocks a myriad of possibilities across numerous domains. Its fast, reliable, and decentralised ecosystem is geared to drive innovation and efficiency in a variety of use cases.
+
