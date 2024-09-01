@@ -24,13 +24,14 @@ Ready to dive in? Start here to learn the basics and set up your environment:
 - [Introduction to Qubic](overview/introduction.md): Get a high-level overview of what Qubic is and how it works.
 
 - [Create your Qubic Wallet](learn/invest.md): Learn about the various ways to invest in Qubic, including cryptocurrency exchanges and creating a Qubic wallet.
+
 ## Learn
 
 Expand your knowledge of the Qubic platform:
 
 - [Tokenomics](learn/tokenomics.md): Understand the economic model and utility of Qubic Units (QUs) in the ecosystem.
 
-- [Useful Proof of Work (uPoW)](learn/upow.md): Discover how uPoW underpins the security and efficiency of the system.
+- [Useful Proof of Work (UPoW)](learn/UPoW.md): Discover how uPoW underpins the security and efficiency of the system.
 
 - [Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
 
@@ -41,8 +42,6 @@ Expand your knowledge of the Qubic platform:
 Everything you need to start developing on Qubic:
 
 ## Tutorials
-
-
 - [Tutorials](developers/tutorials.md): Comprehensive guides and examples to help you get started with Qubic development.
 
 ## Clients
