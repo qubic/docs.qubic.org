@@ -1,10 +1,10 @@
 # Dispute Resolution (Draft)
 
-Disputes are inevitable in any community, and Qubic is no exception. However, Qubic employs an effective dispute resolution process to ensure that disagreements are handled in a fair, transparent, and amicable manner. This approach involves several steps and emphasizes community participation and consensus.
+Disputes are inevitable in any community, and Qubic is no exception. However, Qubic employs an effective dispute resolution process to ensure that disagreements are handled in a fair, transparent, and amicable manner. This approach involves several steps and emphasises community participation and consensus.
 
 ## The Arbitrator
 
-An integral component of Qubic's dispute resolution process is the [Arbitrator](/learn/arbitrator). The Arbitrator is responsible for resolving disagreements and protecting users' interests within the Qubic ecosystem. Its key duties include setting parameters of the mining algorithm, publishing computor lists every epoch, replacing faulty computors, and accumulating Qus not received by poorly performing computors.
+An integral component of Qubic's dispute resolution process is the [Arbitrator](/learn/arbitrator). The Arbitrator is responsible for resolving disagreements and protecting users' interests within the Qubic ecosystem. Its key duties include setting parameters of the mining algorithm, publishing computor lists every epoch, replacing faulty computors, and accumulating QUBIC not received by poorly performing computors.
 
 ## How Does Dispute Resolution Work?
 
