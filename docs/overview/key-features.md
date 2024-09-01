@@ -5,7 +5,7 @@ sidebar_label: 'Key Features'
 # Key Features
 
 ## Open-Source
-Qubic is built on open-source principles. This means that its source code is freely available for anyone to review, modify and enhance. Open-source fosters a collaborative environment where developers across the world can contribute to the evolution of the project, making it a community-driven platform.
+Qubic is built on open-source principles. This means that its source code (https://github.com/qubic/core) is freely available for anyone to review, modify and enhance. Open-source fosters a collaborative environment where developers across the world can contribute to the evolution of the project, making it a community-driven platform.
 
 ## Useful Proof-of-Work
 Unlike traditional Proof-of-Work mechanisms that solely secure the network, Qubic's Useful PoW not only helps determine the ranking of computors for each epoch but also contributes to AI training. This dual-purpose approach optimises computational resources, ensuring no energy is wasted.
