@@ -16,7 +16,7 @@ Qubic is built upon a distributed ledger technology that utilises a consensus al
 
 Smart contracts, self-executing agreements with the terms directly coded into the contract, are a core component of Qubic. They enable the automation of various processes, such as the transfer of assets or the execution of agreements, without the need for a centralised authority. This not only reduces costs but also enhances the overall security and transparency of the system.
 
-Decentralized applications (DApps) built on Qubic leverage the platform's smart contract and token functionalities, allowing developers to create innovative solutions tailored to various use cases. These DApps can interact with the underlying blockchain and smart contracts to provide users with a seamless and secure experience.
+Decentralized applications (dApps) built on Qubic leverage the platform's smart contract and token functionalities, allowing developers to create innovative solutions tailored to various use cases. These DApps can interact with the underlying blockchain and smart contracts to provide users with a seamless and secure experience.
 
 ## Qubic: A Superior Solution
 
