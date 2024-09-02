@@ -35,7 +35,7 @@ Regardless of how you choose to invest, you will need a Qubic wallet to store yo
 
 2. Get your Qubic ID: This is a 60-character string derived from your seed. You can obtain it by adding your seed to the [qubic.org wallet](https://wallet.qubic.org/).
 
-3. Use the [qubic.li wallet](https://wallet.qubic.org/) to manage your QUs: Create a vault and add your seed to interact with Qubic.
+3. Use the [qubic.org wallet](https://wallet.qubic.org/) to manage your QUs: Create a vault and add your seed to interact with Qubic.
 
    :::note
    This is an online wallet, so there are inherent risks. Always ensure you trust the browser you are using and understand the risks involved.
@@ -43,15 +43,22 @@ Regardless of how you choose to invest, you will need a Qubic wallet to store yo
 
 ## 3. Hardware Wallets
 
-For those interested in 'cold storage' of their QUBIC, here is a list of the current options:
+For those interested in 'cold storage' of their QUBIC, here is a list of the current hardware wallet options:
 
 - [HASHWallet](url)
 
-## 4. Stay Informed
+## 4. iOS and Android Wallets
+
+You can also store QUBIC on Apple or Android devices:
+
+iOS Wallet: https://apps.apple.com/us/app/qubic-wallet/id6502265811
+Android Wallet: https://play.google.com/store/apps/details?id=org.qubic.wallet&pli=1
+
+## 5. Stay Informed
 
 For those interested in additional information about the network, visit [qubic.li](https://app.qubic.li/network/transfers). Click on "Log In" (you can use prefilled data, no need to create an account for now) to see the network stats.
 
-## 5. Future Developments
+## 6. Future Developments
 
 Keep an eye out for the upcoming Qx exchange, which will be Qubic's own decentralised exchange. More information will be provided once the UI is ready for launch.
 
