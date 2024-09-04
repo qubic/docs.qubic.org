@@ -21,7 +21,7 @@ Qubic's smart contracts revolve around public functions encapsulated in the cont
 ## Proposal and IPO Process
 Before a Smart Contract's integration:
 
-- It must undergo a [proposal](/learn/proposals) voting by the quorum. Specifically, ⅔ of the 676 computors need to participate in the voting, with a majority required for contract acceptance.
+- It must undergo a [proposal](/learn/proposals) voting by the Quorum. Specifically, 451 of the 676 computors need to participate in the voting, with a majority required for contract acceptance.
 - The shares associated with the smart contract undergo an [IPO](/learn/ipo) using a [Dutch auction](/learn/dutch-auction) model.
 Spotlight on Qubic's Smart Contracts
 
@@ -37,9 +37,9 @@ Key highlights include:
 - A proposal with less than 451 valid votes is invalid.
 - A valid vote is one with index above 0 and matching one of the options from the proposal.
 - A proposal with duplicate options or option indices outside of [1; 7] range is invalid.
-- Options must be sorted and listed without gaps starting from option #1 (e.g. "5 = yes / 2 = no" is invalid options for a proposal).
+- Options must be sorted and listed without gaps starting from option #1 (e.g. "5 = yes / 2 = no" is an invalid option for a proposal).
 - The result of a proposal is the option which has got strictly more than 50% of valid votes.
-- If none of the options has got more than 50% then another proposal should be published with two most popular options only, in some cases if #1/#2 places are shared by several options more voting steps may be needed.
+- If none of the options has got more than 50% then another proposal should be published with the two most popular options only, in some cases if #1/#2 places are shared by several options more voting steps may be needed.
 - The Computor which publishes a proposal isn't allowed to vote that epoch with the only exception: The first option from the published proposal is taken as own Computor's vote.
 
 ## The Road Ahead
