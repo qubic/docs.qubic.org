@@ -4,7 +4,7 @@ sidebar_label: 'Aigarth'
 
 # Aigarth - The AI Garden on Qubic Network
 
-Aigarth is a pioneering project that will be developed on top of the Qubic network. It combines the fields of artificial intelligence and distributed computing to create a collective system for solving complex AI tasks. The name "Aigarth" is a fusion of "AI" for artificial intelligence, and "garth," an old term for garden or yard.
+Aigarth is a pioneering project that is being developed on top of the Qubic network. It combines the fields of artificial intelligence and distributed computing to create a collective system for solving complex AI tasks. The name "Aigarth" is a fusion of "AI" for artificial intelligence, and "garth," an old term for garden or yard.
 
 :::note
 
