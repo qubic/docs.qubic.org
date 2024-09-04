@@ -19,7 +19,7 @@ The Alienminer custom software is another option available to Qubic miners. This
 Both of these software options are actively maintained and updated to ensure the best mining performance and compatibility with the Qubic network.
 
 ## Community Support
-For help with setting up your mining software or to stay updated on the latest developments in Qubic, join the Qubic Discord. Discord is a communication platform where users discuss and collaborate on various topics, including Qubic and mining. If you have specific questions or need assistance, don't hesitate to reach out to the community of developers and miners.
+For help with setting up your mining software or to stay updated on the latest developments in Qubic, join the Qubic Discord. Discord is a communication platform where users discuss and collaborate on various topics, including Qubic and mining. There are different pools that maintain the artificial neural networks, which helps train the Qubic AI - each with its own pros and cons. If you're unsure which pool is best for you, or if you have specific questions or need assistance, don't hesitate to reach out to the community of developers and miners on the Qubic Discord.
 
 ## Getting Started with Mining Software
 
