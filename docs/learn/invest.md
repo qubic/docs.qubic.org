@@ -52,6 +52,7 @@ For those interested in 'cold storage' of their QUBIC, here is a list of the cur
 You can also store QUBIC on Apple or Android devices:
 
 iOS Wallet: https://apps.apple.com/us/app/qubic-wallet/id6502265811
+
 Android Wallet: https://play.google.com/store/apps/details?id=org.qubic.wallet&pli=1
 
 ## 5. Stay Informed
