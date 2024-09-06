@@ -43,13 +43,13 @@ Regardless of how you choose to invest, you will need a Qubic wallet to store yo
 
 ## 3. Hardware Wallets
 
-For those interested in 'cold storage' of their QUBIC, here is a list of the current hardware wallet options:
+For those interested in 'cold storage' of their QUs, here is a list of the current hardware wallet options:
 
-- [HASHWallet](url)
+- [HASHWallet]([url](https://www.gethashwallet.com/qubic-wallet))
 
 ## 4. iOS and Android Wallets
 
-You can also store QUBIC on Apple or Android devices:
+You can also store QUs on Apple or Android devices:
 
 iOS Wallet: https://apps.apple.com/us/app/qubic-wallet/id6502265811
 
