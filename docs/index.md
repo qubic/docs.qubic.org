@@ -15,7 +15,7 @@ hide_sidebar: true
 
 # Welcome to Qubic Documentation
 
-Qubic is an innovative platform designed to revolutionize the world of decentralized computing and finance through its quorum-based computer (QBC) system. Whether you're a developer, researcher, or enthusiast, this documentation will guide you through everything you need to know to start building and contributing to the Qubic ecosystem.
+Qubic is an innovative platform designed to revolutionise the world of decentralised computing and finance through its quorum-based computer (QBC) system. Whether you're a developer, researcher, or enthusiast, this documentation will guide you through everything you need to know to start building and contributing to the Qubic ecosystem.
 
 ## Getting Started
 
@@ -24,25 +24,24 @@ Ready to dive in? Start here to learn the basics and set up your environment:
 - [Introduction to Qubic](overview/introduction.md): Get a high-level overview of what Qubic is and how it works.
 
 - [Create your Qubic Wallet](learn/invest.md): Learn about the various ways to invest in Qubic, including cryptocurrency exchanges and creating a Qubic wallet.
+
 ## Learn
 
 Expand your knowledge of the Qubic platform:
 
 - [Tokenomics](learn/tokenomics.md): Understand the economic model and utility of Qubic Units (QUs) in the ecosystem.
 
-- [Useful Proof of Work (uPoW)](learn/upow.md): Discover how uPoW underpins the security and efficiency of the system.
+- [Useful Proof of Work (UPoW)](learn/UPoW.md): Discover how uPoW underpins the security and efficiency of the system.
 
 - [Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
 
-- [Aigarth](learn/aigarth.md): Learn about Aigarth project being developed on the Qubic network.
+- [Aigarth](learn/aigarth.md): Learn about Aigarth being developed on the Qubic network.
 
 ## Developer Resources
 
 Everything you need to start developing on Qubic:
 
 ## Tutorials
-
-
 - [Tutorials](developers/tutorials.md): Comprehensive guides and examples to help you get started with Qubic development.
 
 ## Clients

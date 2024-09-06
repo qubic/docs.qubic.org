@@ -16,11 +16,11 @@ Feedback from the community is crucial in the decision-making process. Members o
 
 ## Voting
 
-Following the feedback period, the proposed update is put to a vote. For a decision to be made, the quorum must participate in the voting process. If the proposal receives majority support, it proceeds to the implementation phase. If not, it may be revised based on the feedback received or discarded.
+Following the feedback period, the proposed update is put to a vote. For a decision to be made, the Quorum must participate in the voting process. If the proposal receives majority support, it proceeds to the implementation phase. If not, it may be revised based on the feedback received or discarded.
 
 ## Implementation
 
-Once an update has been approved, it moves into the implementation phase. Developers work on incorporating the changes into the Qubic system. This might involve coding new features, optimizing existing ones, or fixing reported bugs.
+Once an update has been approved, it moves onto the implementation phase. Developers work on incorporating the changes into the Qubic network. This might involve coding new features, optimising existing ones, or fixing reported bugs.
 
 ## Communication
 
