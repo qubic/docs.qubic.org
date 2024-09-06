@@ -14,7 +14,7 @@ The Qubic documentation is currently in public preview and may change significan
 
 Get ready to dive into Qubic, an innovative crypto platform that's changing the game. Founded by Sergey Ivancheglo, the mastermind behind IOTA and NXT, Qubic is revolutionising the world of cryptocurrency with its quorum-based computer (QBC) system.
 
-At its core, Qubic is powered by 676 [Computors](/learn/nodes) responsible for executing smart contracts and securing the network. The platform ensures reliability by requiring a [Quorum](/learn/quorum) of ⅔+ (or 451+) Computors to reach a consensus before considering it final. Unlike traditional crypto platforms that consume massive amounts of energy for mining, Qubic boasts a [Useful Proof-of-Work](/learn/UPoW) system that leverages mining capacities for AI training.
+At its core, Qubic is powered by 676 [Computors](/learn/nodes) responsible for executing smart contracts and securing the network. The platform ensures reliability by requiring a [Quorum](/learn/quorum) of ⅔+ (or 451+) Computors to reach a consensus before considering it final. Unlike traditional crypto platforms that consume massive amounts of energy for mining, Qubic boasts a [Useful Proof-of-Work](/learn/upow) system that leverages mining capacities for AI training.
 
 In addition to Computors, Qubic features candidates, who contribute to AI training without receiving compensation. A weekly ranking, or "epoch," determines the top 451 performing Computors, who maintain their status while the remaining spots are filled from the pool of candidates and lower-ranking Computors.
 
