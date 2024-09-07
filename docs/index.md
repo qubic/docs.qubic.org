@@ -31,7 +31,7 @@ Expand your knowledge of the Qubic platform:
 
 - [Tokenomics](learn/tokenomics.md): Understand the economic model and utility of Qubic Units (QUs) in the ecosystem.
 
-- [Useful Proof of Work (UPoW)](learn/UPoW.md): Discover how uPoW underpins the security and efficiency of the system.
+- [Useful Proof of Work (UPoW)](learn/upow.md): Discover how uPoW underpins the security and efficiency of the system.
 
 - [Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
 
