@@ -21,7 +21,7 @@ A Computor in the Qubic system is a specialized node designed to execute tasks, 
 
 **Key Features**:
 - Role in maintaining and ensuring network's decentralized nature.
-- Allocation of a portion of newly minted Qubic Units (QUs) each epoch for their overall network participation.
+- Allocation of a portion of newly minted $QUBIC each epoch for their overall network participation.
 - Involvement in essential network voting and decision-making processes.
 
 **Limitation**: There is a fixed upper limit of 676 Computors operating in the Qubic network at any given time, ensuring optimal performance and streamlined decision-making. A weekly score ranking based on solutions deliverd by their Miners determines the top 451 performing Computors, who maintain their status, while the remaining 225 spots are filled from the pool of Candidates and lower-ranking Computors each epoch.
