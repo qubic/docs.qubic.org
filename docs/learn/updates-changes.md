@@ -1,4 +1,4 @@
-# Updates and Changes (Draft)
+# Updates and Changes
 
 To ensure the continuous improvement and evolution of the Qubic ecosystem, regular updates and changes are essential. These updates can range from minor bug fixes to major feature additions or enhancements. Here's how the process works:
 
