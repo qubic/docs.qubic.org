@@ -4,7 +4,7 @@ sidebar_label: 'Mining Software'
 
 # Mining Software
 
-Understanding the software necessary to mine or finding solutions in the Qubic network (and hence earn QUs) is as important as understanding the hardware requirements. The software controls your hardware, facilitates communication with the Qubic network, and helps you manage your mining activity.
+Understanding the software necessary to mine or finding solutions in the Qubic network (and hence earn $QUBIC) is as important as understanding the hardware requirements. The software controls your hardware, facilitates communication with the Qubic network, and helps you manage your mining activity.
 
 ## Available Mining Software
 
