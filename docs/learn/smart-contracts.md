@@ -28,10 +28,10 @@ Spotlight on Qubic's Smart Contracts
 ## Distinguishing Features
 Key highlights include:
 
-- Use of Qubic Units (QUs) as "energy", making contracts frictionless and expansive.
-- Deflationary by design, with QUs used during execution being "burned".
+- Use of $QUBIC as "energy", making contracts frictionless and expansive.
+- Deflationary by design, with $QUBIC used during execution being "burned".
 - Integration capability with real-world data using Qubic's oracles.
-- While QUs are used in Smart Contract execution, it remains cost-free for users due to self-financing from its IPO. However, there's flexibility, as contracts can charge users QUs for specialized services.
+- While $QUBIC is used in Smart Contract execution, it remains cost-free for users due to self-financing from its IPO. However, there's flexibility, as contracts can charge users $QUBIC for specialized services.
 
 ## Voting rules
 - A proposal with less than 451 valid votes is invalid.
