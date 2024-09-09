@@ -1,4 +1,4 @@
-# Proposals (Draft)
+# Proposals
 
 In the Qubic community, decisions aren't made by a single person or a centralized group of people. Instead, they are made by the community as a whole through a democratic and transparent process. A key aspect of this process is the proposal system.
 
