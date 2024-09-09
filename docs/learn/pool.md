@@ -21,10 +21,10 @@ Miners interested in joining a pool sign up on [qubic.li](https://app.qubic.li/)
 Mining as a Team: Now, the pool's members work as a team. Each miner is assigned an AI training task — less complex than the tasks in solo mining — resembling the search for treasure in a pond rather than an ocean.
 
 Achieving High Scores: Once a miner in the pool finds a solution on their assigned AI task, they inform the pool's server.
-Distributing the Rewards: The pool's server distributes the rewards, or QUs, among all the miners in the pool, proportionate to the solutions each miner contributed. The payout is once every epoch (i.e. weekly).
+Distributing the Rewards: The pool's server distributes the rewards in $QUBIC, among all the miners in the pool, proportionate to the solutions each miner contributed. The payout is once every epoch (i.e. weekly).
 
 ## Benefits of Pool Mining
-Improved Odds: Pool mining enhances the chances of earning Qus, as the collective power of many miners can complete AI tasks more efficiently.
+Improved Odds: Pool mining enhances the chances of earning $QUBIC, as the collective power of many miners can complete AI tasks more efficiently.
 
 Consistent Payouts: Compared to solo miners who might face long periods without rewards, pool miners receive more regular and predictable payouts.
 
