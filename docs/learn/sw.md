@@ -4,14 +4,14 @@ sidebar_label: 'Mining Software'
 
 # Mining Software
 
-Understanding the software necessary to mine or find solutions on the Qubic network (and hence earn QUs) is as important as understanding the hardware requirements. The software controls your hardware, facilitates communication with the Qubic network, and helps you manage your mining activity.
+Understanding the software necessary to mine or find solutions on the Qubic network (and hence earn $QUBIC) is as important as understanding the hardware requirements. The software controls your hardware, facilitates communication with the Qubic network, and helps you manage your mining activity.
 
 ## Available Mining Software
 
 Presently, there are a couple of software options available for mining on the Qubic network.
 
 ### Qubic-li Miner
-Qubic.li offers a client that can be used to mine Qus. This software is user-friendly, making it a good choice for those new to mining. It provides essential features like managing your mining activity, monitoring performance, and connecting with the Qubic network.
+Qubic.li offers a client that can be used to mine $QUBIC. This software is user-friendly, making it a good choice for those new to mining. It provides essential features like managing your mining activity, monitoring performance, and connecting with the Qubic network.
 
 ### Alienminer Custom Software
 The Alienminer custom software is another option available to Qubic miners. This software has been developed with a focus on performance, and it may offer certain features and optimisations not found in the Qubic.li client.

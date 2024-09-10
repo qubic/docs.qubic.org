@@ -5,7 +5,7 @@ The IPO for RANDOM took place on December 21, 2023, and concluded with the burni
 
 ## Passive Income for Shareholders
 
-RANDOM allows shareholders to earn passive QU income. QU is burned with each use, and a portion of that burned QUBIC is distributed as passive income to shareholders.
+RANDOM allows shareholders to earn passive $QUBIC income. $QUBIC is burned with each use, and a portion of that burned QUBIC is distributed as passive income to shareholders.
 
 ## RANDOM Burn Mechanism
 

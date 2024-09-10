@@ -4,7 +4,7 @@ In the world of finance, an Initial Public Offering (IPO) refers to the process 
 
 ## Qubic's First IPO
 
-The first IPO within the Qubic network was that of a Decentralised Exchange (DEX) known as QX. An innovative application of Qubic's smart contract technology was used to distribute 676 shares of QX. This marked a significant milestone for the Qubic project, as it demonstrated the potential of Qubic's smart contracts for creating and distributing digital assets in a decentralised manner. Subsequent IPOs have taken place, with the first three, including Qx, collectively burning 10.5 trillion of the total supply of QU.
+The first IPO within the Qubic network was that of a Decentralised Exchange (DEX) known as QX. An innovative application of Qubic's smart contract technology was used to distribute 676 shares of QX. This marked a significant milestone for the Qubic project, as it demonstrated the potential of Qubic's smart contracts for creating and distributing digital assets in a decentralised manner. Subsequent IPOs have taken place, with the first three, including Qx, collectively burning 10.5 trillion of the total supply of $QUBIC.
 
 ## IPO Process in Qubic
 

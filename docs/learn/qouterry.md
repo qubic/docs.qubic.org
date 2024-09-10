@@ -9,7 +9,7 @@ The Quottery app is live, but under continuous development. More features will b
 Quottery allows decentralised betting on a range of events, offering a secure platform powered by smart contracts.
 Key highlights:
  - Decentralised and Transparent: All bets are executed using self-executing smart contracts, ensuring a fair, trustless betting environment.
- - Scarcity Mechanism: Each bet burns 2% of the total QU used, further reducing the circulating supply and benefiting QU holders. 
+ - Scarcity Mechanism: Each bet burns 2% of the total $QUBIC used, further reducing the circulating supply and benefiting $QUBIC holders. 
  - First-Mover Advantage: Quottery stands as the first decentralised betting platform in the Qubic ecosystem, though it remains open for future competitors pending Quorum approval. 
 
 Current Examples of Active Bets
@@ -39,10 +39,10 @@ A 3% service fee applies to all winning bets, supporting the operation and maint
 
 ## Burning Fee
 
-For every bet, 2% of the total amount staked in QU is burned, reducing the circulating supply and benefiting the ecosystem.
+For every bet, 2% of the total amount staked in $QUBIC is burned, reducing the circulating supply and benefiting the ecosystem.
 
 ## Asset Transfer Fee
-A fixed QU fee applies to asset transfers, ensuring minimal friction in moving assets between accounts. 
+A fixed $QUBIC fee applies to asset transfers, ensuring minimal friction in moving assets between accounts. 
 
 ## Storage Fees
 Bets and assets on Quottery require storage on the Qubic network. The smart contracts cover storage fees, ensuring users aren’t charged for network maintenance. 

@@ -4,7 +4,7 @@ sidebar_label: 'Use Cases'
 
 # Use Cases
 
-Qubic, with its unique consensus mechanism and native token QU, opens up a range of exciting possibilities for developers, businesses, and end-users. Let's explore some of the primary use cases that make Qubic a pioneering platform in the realm of distributed computing and decentralised finance.
+Qubic, with its unique consensus mechanism and native token $QUBIC, opens up a range of exciting possibilities for developers, businesses, and end-users. Let's explore some of the primary use cases that make Qubic a pioneering platform in the realm of distributed computing and decentralised finance.
 
 # Decentralised Computing Power
 Qubic harnesses the power of distributed systems to create a global supercomputer. Users across the globe can tap into this network for a plethora of computational needs, from running complex simulations to training AI models. Qubic's consensus mechanism ensures that the computational tasks are executed efficiently and securely, with the added benefit of utilising underused computational resources across the globe.
