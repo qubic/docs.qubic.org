@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Random'
+sidebar_label: 'RANDOM'
 ---
 
 RANDOM is a smart contract within the Qubic ecosystem that generates random numbers. Its applications include gambling, gaming, NFTs, and security systems.

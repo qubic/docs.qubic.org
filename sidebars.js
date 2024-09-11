@@ -39,15 +39,7 @@ const sidebars = {
         items: [
           'learn/nodes', 
           'learn/spectrum',
-        ],
-      },
-      {
-        type: 'category',
-        label: 'Projects',
-        items: [
-          'learn/qouterry', 
-          'learn/random',
-          'learn/mlm',
+          'learn/tokenomics',
         ],
       },
       {
