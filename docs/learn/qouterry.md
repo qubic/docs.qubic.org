@@ -4,7 +4,7 @@ sidebar_label: 'Quottery'
 
 # Quottery
 
-The Quottery betting app launched its IPO on August 30, 2023, marking a major step in the Qubic ecosystem. This event burned 0.725% of the circulating QUBIC supply.
+The Quottery betting app launched its IPO on August 30, 2023, marking a major step in the Qubic ecosystem. This event burned 0.725% of the circulating $QUBIC supply.
 Bet on anything. Anytime. Join the P2P betting revolution—safe, secure, and exciting, with various active bets on key events such as the next US President and college football games.
 The Quottery app is live, but under continuous development. More features will be introduced soon. 
 
@@ -21,12 +21,12 @@ Next US President
 Bet closes: Nov 4, 2024
 Slots taken: 28
 3% fee, 2% burning
-168,000,000 QUBIC staked
+168,000,000 $QUBIC staked
 9-21-24 CFB USC @ Michigan
 Bet closes: Sept 21, 2024
 Slots taken: 3
 3% fee, 2% burning
-8,816,760 QUBIC staked
+8,816,760 $QUBIC staked
 Additional college football games include Georgia vs Alabama (Sept 28, 2024), Ole Miss vs LSU (Oct 12, 2024), LSU vs Texas A&M (Oct 26, 2024), Alabama vs LSU (Nov 9, 2024), and Auburn vs Alabama (Nov 30, 2024).
 
 ## Quottery Fees

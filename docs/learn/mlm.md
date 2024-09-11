@@ -8,7 +8,7 @@ IPO Date: June 5, 2023, 12:00 UTC
 
 Description: My Last Match (MLM) is an online real-time game running on a dedicated server, with all economic interactions happening via Qubic
 
-The MLM Initial Public Offering (IPO) successfully closed with 473.876 billion QUBIC bid and burned.
+The MLM Initial Public Offering (IPO) successfully closed with 473.876 billion $QUBIC bid and burned.
 MLM has not officially launched and continued updates and enhancements will be rolled out as the game evolves. Further information will be provided when the game is set for launch, and as new features are introduced.
 
 ## My Last Match in a Nutshell
