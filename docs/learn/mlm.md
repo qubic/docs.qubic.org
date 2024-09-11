@@ -1,5 +1,5 @@
 ---
-title: My Last Match (MLM)
+sidebar_label: 'My Last Match (MLM)'
 ---
 
 

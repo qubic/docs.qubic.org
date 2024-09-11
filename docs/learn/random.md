@@ -1,4 +1,6 @@
-RANDOM
+---
+sidebar_label: 'Random'
+---
 
 RANDOM is a smart contract within the Qubic ecosystem that generates random numbers. Its applications include gambling, gaming, NFTs, and security systems.
 The IPO for RANDOM took place on December 21, 2023, and concluded with the burning of 1.02 trillion QUBIC, which is equivalent to 1.34% of the total supply.

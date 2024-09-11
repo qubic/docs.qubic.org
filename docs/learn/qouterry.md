@@ -1,3 +1,7 @@
+---
+sidebar_label: 'Quottery'
+---
+
 ## Quottery
 
 The Quottery betting app launched its IPO on August 30, 2023, marking a major step in the Qubic ecosystem. This event burned 0.725% of the circulating QUBIC supply.
