@@ -86,6 +86,7 @@ const sidebars = {
           'learn/mlm',
         ],
       },
+      'learn/aigarth',
       {
         type: 'category',
         label: 'How to buy',
@@ -94,8 +95,7 @@ const sidebars = {
           'learn/wallets',
           'learn/qx',
         ],
-      },
-      'learn/aigarth',
+      }
     ],
     
     compSidebar: [
