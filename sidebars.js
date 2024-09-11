@@ -75,12 +75,15 @@ const sidebars = {
       },
       {
         type: 'category',
-        label: 'Advanced Concepts',
+        label: 'Smart Contracts and IPOs',
         items: [
           'learn/smart-contracts',
           'learn/ipo',
           'learn/dutch-auction',
-          'learn/aigarth',
+          'learn/qouterry',
+          'learn/qx',
+          'learn/random',
+          'learn/mlm',
         ],
       },
       {
@@ -91,7 +94,8 @@ const sidebars = {
           'learn/wallets',
           'learn/qx',
         ],
-      }
+      },
+      'learn/aigarth',
     ],
     
     compSidebar: [
