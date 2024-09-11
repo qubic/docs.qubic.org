@@ -2,6 +2,8 @@
 sidebar_label: 'My Last Match (MLM)'
 ---
 
+# My Last Match
+
 IPO Date: June 5, 2023, 12:00 UTC
 
 Description: My Last Match (MLM) is an online real-time game running on a dedicated server, with all economic interactions happening via Qubic
