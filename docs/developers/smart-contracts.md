@@ -11,7 +11,7 @@ Qubic's smart contracts are designed to be secure, efficient, and flexible. Belo
 ## Known Smart Contracts
 
 ### ComputorControlledFund (CCF)
-- **Address:** `0xCCF`
+- **Address:** 
 - **Description:** Manages funds controlled by computors, allowing for proposals and voting on fund transfers.
 - **Input Types:**
   - `SetProposal_input`
@@ -24,12 +24,12 @@ Qubic's smart contracts are designed to be secure, efficient, and flexible. Belo
   - `GetProposalFee_input`
 
 ### MyLastMatch (MLM)
-- **Address:** `0xMLM`
+- **Address:** 
 - **Description:** A simple contract example with minimal functionality.
 - **Input Types:** None specified.
 
 ### QUtil
-- **Address:** `0xQUTIL`
+- **Address:** 
 - **Description:** Provides utility functions for other smart contracts, such as sending funds to multiple addresses and burning Qubic.
 - **Input Types:**
   - `SendToManyV1_input`
@@ -37,17 +37,17 @@ Qubic's smart contracts are designed to be secure, efficient, and flexible. Belo
   - `BurnQubic_input`
 
 ### Quottery
-- **Address:** `0xQUOTTERY`
+- **Address:** 
 - **Description:** A lottery contract within the Qubic ecosystem.
 - **Input Types:** Not specified in the provided context.
 
 ### Qx
-- **Address:** `0xQX`
+- **Address:** 
 - **Description:** A contract for managing Qubic exchanges.
 - **Input Types:** Not specified in the provided context.
 
 ### Random
-- **Address:** `0xRANDOM`
+- **Address:** 
 - **Description:** Generates random numbers for various applications, including gambling, gaming, NFTs, and security systems.
 - **Input Types:** Not specified in the provided context.
 
