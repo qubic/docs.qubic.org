@@ -39,17 +39,15 @@ Qubic's smart contracts are designed to be secure, efficient, and flexible. Belo
 ### Quottery
 - **Address:** 
 - **Description:** A lottery contract within the Qubic ecosystem.
-- **Input Types:** Not specified in the provided context.
 
 ### Qx
 - **Address:** 
 - **Description:** A contract for managing Qubic exchanges.
-- **Input Types:** Not specified in the provided context.
 
 ### Random
 - **Address:** 
 - **Description:** Generates random numbers for various applications, including gambling, gaming, NFTs, and security systems.
-- **Input Types:** Not specified in the provided context.
+
 
 ## Contract Development Guidelines
 
