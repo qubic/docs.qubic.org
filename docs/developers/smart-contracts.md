@@ -23,11 +23,6 @@ Qubic's smart contracts are designed to be secure, efficient, and flexible. Belo
   - `GetLatestTransfers_input`
   - `GetProposalFee_input`
 
-### MyLastMatch (MLM)
-- **Address:** 
-- **Description:** A simple contract example with minimal functionality.
-- **Input Types:** None specified.
-
 ### QUtil
 - **Address:** 
 - **Description:** Provides utility functions for other smart contracts, such as sending funds to multiple addresses and burning Qubic.
@@ -39,14 +34,65 @@ Qubic's smart contracts are designed to be secure, efficient, and flexible. Belo
 ### Quottery
 - **Address:** 
 - **Description:** A lottery contract within the Qubic ecosystem.
+- **Input Types:**
+  - `basicInfo_input`
+  - `basicInfo_output`
+  - `getBetInfo_input`
+  - `getBetInfo_output`
+  - `issueBet_input`
+  - `issueBet_output`
+  - `joinBet_input`
+  - `joinBet_output`
+  - `getBetOptionDetail_input`
+  - `getBetOptionDetail_output`
+  - `getActiveBet_input`
+  - `getActiveBet_output`
+  - `getBetByCreator_input`
+  - `getBetByCreator_output`
+  - `cancelBet_input`
+  - `cancelBet_output`
+  - `publishResult_input`
+  - `publishResult_output`
+  - `cleanMemorySlot_input`
+  - `cleanMemorySlot_output`
+  - `tryFinalizeBet_input`
+  - `tryFinalizeBet_output`
+  - `checkAndCleanMemorySlots_input`
+  - `checkAndCleanMemorySlots_output`
 
 ### Qx
 - **Address:** 
 - **Description:** A contract for managing Qubic exchanges.
+- **Input Types:**
+  - `Fees_input`
+  - `Fees_output`
+  - `AssetAskOrders_input`
+  - `AssetAskOrders_output`
+  - `AssetBidOrders_input`
+  - `AssetBidOrders_output`
+  - `EntityAskOrders_input`
+  - `EntityAskOrders_output`
+  - `EntityBidOrders_input`
+  - `EntityBidOrders_output`
+  - `IssueAsset_input`
+  - `IssueAsset_output`
+  - `TransferShareOwnershipAndPossession_input`
+  - `TransferShareOwnershipAndPossession_output`
+  - `AddToAskOrder_input`
+  - `AddToAskOrder_output`
+  - `AddToBidOrder_input`
+  - `AddToBidOrder_output`
+  - `RemoveFromAskOrder_input`
+  - `RemoveFromAskOrder_output`
+  - `RemoveFromBidOrder_input`
+  - `RemoveFromBidOrder_output`
 
 ### Random
 - **Address:** 
 - **Description:** Generates random numbers for various applications, including gambling, gaming, NFTs, and security systems.
+- **Input Types:**
+  - `RevealAndCommit_input`
+  - `RevealAndCommit_output`
 
 
 ## Contract Development Guidelines
