@@ -139,6 +139,7 @@ const sidebars = {
           'developers/qpi',
         ],
       },
+      'developers/smart-contracts',
       {
         type: 'category',
         label: 'Clients',
