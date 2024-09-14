@@ -1,7 +1,7 @@
 ---
 title: Qubic RPC
 ---
-#  Qubic RPC
+# Qubic RPC
 
 The Qubic RPC is your gateway to the Qubic Network. For testing purposes, you can use https://testapi.qubic.org as baseUrl.
 
@@ -147,3 +147,16 @@ Please note that these endpoints may be subject to updates. Always consult the [
   - `emptyTicksInCurrentEpoch`: The number of empty ticks in the current epoch (e.g., 287)
   - `epochTickQuality`: The quality of ticks in the current epoch as a percentage (e.g., 97.59913)
   - `burnedQus`: The total number of QUs that have been burned (e.g., "13070914824290")
+
+## Interact with QX Smart Contracts using the API
+
+For more detailed information on all available endpoints, please visit the [Qubic Swagger Documentation](https://qubic.github.io/go-qubic/swagger/index.html#/).
+
+### QxService Endpoints
+- **GET** `/v1/qx/getAssetAskOrders`
+- **GET** `/v1/qx/getAssetBidOrders`
+- **GET** `/v1/qx/getEntityAskOrders`
+- **GET** `/v1/qx/getEntityBidOrders`
+- **GET** `/v1/qx/getFees`
+
+For interacting with these endpoints, use the base URL: `http://95.216.243.140`. For example, to get fees, you can use the following curl command:
