@@ -95,6 +95,12 @@ const config = {
             position: 'left',
           },
           {
+            label: 'Hackathon',
+            type: 'docSidebar',
+            sidebarId: 'hackathonSidebar',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/qubic/docs',
             label: 'GitHub',
             position: 'right',
