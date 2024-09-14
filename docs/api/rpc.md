@@ -3,15 +3,12 @@ title: Qubic RPC
 ---
 # Qubic RPC
 
-The Qubic RPC is your gateway to the Qubic Network. For testing purposes, you can use https://testapi.qubic.org as baseUrl.
+### Swagger API Documentation
 
-For full documentation, please visit the [Qubic Integrations Partner In GitHub repository](https://qubic.github.io/integration/Partners/).
+For detailed information on the API, please refer to the [Qubic RPC Swagger Documentation](https://qubic.github.io/integration/Partners/qubic-rpc-doc.html?urls.primaryName=Qubic%20RPC%20Archive%20Tree).
 
 ### Public available RPC/API's
 
-:::caution
-Please note that these endpoints may be subject to updates. Always consult the [Qubic Integrations Partner GitHub repository](https://qubic.github.io/integration/Partners/) for the most up-to-date information and documentation.
-:::
 
 | Base Url | Version/State | Use Case |
 | -------- | ------- | ---- |

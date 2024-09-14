@@ -34,7 +34,6 @@ Projects must utilize the Qubic API to build their application. A prototype must
 
 # Submission Requirements
 
-- GitHub repository with source code and README
 - Presentation deck (10 slides max)
 - Live demo (if applicable)
 
