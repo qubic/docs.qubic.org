@@ -17,6 +17,10 @@ hide_sidebar: true
 
 Qubic is an innovative platform designed to revolutionise the world of decentralised computing and finance through its quorum-based computer (QBC) system. Whether you're a developer, researcher, or enthusiast, this documentation will guide you through everything you need to know to start building and contributing to the Qubic ecosystem.
 
+## Hackathon
+
+> **Disclaimer:** If you are participating in one of the Qubic hackathons, please go to [Hackathon Information](hackathon/hackathon.md) for the full details.
+
 ## Getting Started
 
 Ready to dive in? Start here to learn the basics and set up your environment:
