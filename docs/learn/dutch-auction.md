@@ -12,7 +12,7 @@ A Dutch auction system encourages bidders to bid competitively since it safeguar
 
 As an example: 10 shares are available overall:
 
-| Bidder wants to pay | QU per share for | Amount of shares wanted |
+| Bidder wants to pay | $QUBIC per share for | Amount of shares wanted |
 |---------------------|------------------|-------------------------|
 | Alice               | 300              | 5                       |
 | Bob                 | 7                | 10                      |
@@ -20,7 +20,7 @@ As an example: 10 shares are available overall:
 
 These bids are sorted by price, from highest to lowest: 
 
-| Bidder wants to pay | QU per share for | Amount of shares wanted |
+| Bidder wants to pay | $QUBIC per share for | Amount of shares wanted |
 |---------------------|------------------|-------------------------|
 | Alice               | <span style={{backgroundColor: 'yellow'}}>300</span>            | 5                       |
 | Charlie             | <span style={{backgroundColor: 'yellow'}}>90</span>             | 3                       |
@@ -28,7 +28,7 @@ These bids are sorted by price, from highest to lowest:
 
 Now we go through line by line and sum up: 
 
-| Bidder wants to pay | QU per share for | Amount of shares wanted | Sum of shares neede |
+| Bidder wants to pay | $QUBIC per share for | Amount of shares wanted | Sum of shares neede |
 |---------------------|------------------|-------------------------|---------------------|
 | Alice               | 300              | 5                       | <span style={{backgroundColor: 'yellow'}}>5</span>                   |
 | Charlie             | 90               | 3                       | <span style={{backgroundColor: 'yellow'}}>8 (5+3)</span>             |
@@ -37,6 +37,6 @@ Now we go through line by line and sum up:
 We exceed the number of available shares (10). The lowest offer still getting shares is 7 QUs
 
 As a result, the final distribution is as followed:
-- Alice gets 5 shares and pays 35 QU
-- Charlie gets 3 shares and pays 21 QU total 
-- Bob gets 2 shares and pays 14 QU total
+- Alice gets 5 shares and pays 35 $QUBIC
+- Charlie gets 3 shares and pays 21 $QUBIC total 
+- Bob gets 2 shares and pays 14 $QUBIC total

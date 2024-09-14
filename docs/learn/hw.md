@@ -11,10 +11,7 @@ When planning to mine in the Qubic ecosystem, several factors are key to conside
 The AMD Ryzen Threadripper series has been favored by CPU miners due to its high multi-core performance. These CPUs offer excellent computational rates, especially effective for mining tasks that benefit from multi-threaded operations.
 
 ## AMD Ryzen 9 Series
-AMD's Ryzen 9 CPUs, like the Ryzen 9 5950X and Ryzen 9 5900X, are known for their strong performance in both single-core and multi-core tasks. Offering a balance between performance and cost-effectiveness, these CPUs are popular choices for miners.
-
-## Intel Core i9 Series
-Intel's Core i9 CPUs, such as the Core i9-10900K and Core i9-11900K, provide robust multi-core performance, making them a solid choice for mining tasks that require strong computational abilities.
+AMD's Ryzen 9 CPUs, like the Ryzen 9 5950X, 7950x, and 9950x are known for their strong performance in both single-core and multi-core tasks. Offering a balance between performance and cost-effectiveness, these CPUs are popular choices for miners.
 
 ## Intel Xeon CPUs
 Certain Intel Xeon CPUs, often found in server-grade systems, can also be used for mining due to their high core counts and multi-threading capabilities.

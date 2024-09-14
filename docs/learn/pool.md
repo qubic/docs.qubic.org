@@ -18,7 +18,7 @@ To improve their odds, miners began forming mining pools. A mining pool is a col
 ## How Pool Mining Works in Qubic
 Miners interested in joining a pool sign up on [qubic.li](https://app.qubic.li/) and connect their mining devices to the pool's network.
 
-Mining as a Team: Now, the pool's members work as a team. Each miner is assigned an AI training task — less complex than the tasks in solo mining — resembling the search for treasure in a pond rather than an ocean.
+Mining as a Team: Now, the pool's members work as a team. Each miner is assigned an AI training task — less complex than the tasks in solo mining — resembling the search for treasure in a pond rather than an ocean. Different pools have different types of payouts such as PPS vs. FPPS vs. PPLNS, refer to specific pools for the rewards distribution.  Remember that each pool is soley operated and not directly under any control of the Qubic core Team, this increases competitiveness for the pool with the most computing power.
 
 Achieving High Scores: Once a miner in the pool finds a solution on their assigned AI task, they inform the pool's server.
 Distributing the Rewards: The pool's server distributes the rewards, or QUs, among all the miners in the pool, proportionate to the solutions each miner contributed. The payout is once every epoch (i.e. weekly).

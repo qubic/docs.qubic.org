@@ -10,7 +10,7 @@ The following terms are used throughout the Qubic documentation and development 
 Aigarth is an AI-oriented project that will run on the Qubic network, which aims to utilize unused computational power for solving AI-related tasks. Its primary function is to run a special algorithm that allows for the evolution of solutions based on Helix logic gates. This process is transparent, with progress points available to all participants, promoting a collective push towards efficient solutions.
 
 ## Arbitrator
-An entity within the Qubic ecosystem responsible for resolving disputes and protecting user interests. The [Arbitrator](/learn/arbitrator) sets parameters of the mining algorithm, publishes lists of computors every epoch, is developing the capacity to replace faulty computors, and accumulates QUs not received by underperforming computors. Each node operator individually selects their arbitrator by setting the corresponding ID in Qubic.cpp. The entity controlling the current arbitrator remains unknown, though rumors suggest it's operated by the development team.
+An entity within the Qubic ecosystem responsible for resolving disputes and protecting user interests. The [Arbitrator](/learn/arbitrator) sets parameters of the mining algorithm, publishes lists of computors every epoch, is developing the capacity to replace faulty computors, and accumulates QUBIC not received by underperforming computors. Each node operator individually selects their arbitrator by setting the corresponding ID in Qubic.cpp. The entity controlling the current arbitrator remains unknown, though rumors suggest it's operated by the development team.
 
 ## Candidate
 A Candidate is a node that runs the [Computors](/learn/nodes) software but hasn't yet achieved the status of a Computor. In each epoch, up to 256 candidates can ascend to Computor status if they rank among the top 676 nodes based on their score. It's important to note that only Computors with a full week's status receive Qubic Units (QUs) as rewards for their performance. While Candidates don't earn any QUs, running as a Candidate is essential for pushing solutions to the blockchain, which is a prerequisite for becoming a Computor.
@@ -36,8 +36,8 @@ Miners in Qubic are essential for supporting Computors. Miners acquire problems 
 ## Oracles
 A feature in development for Qubic. In blockchain technology, oracles are third-party services that provide smart contracts with external information, enabling them to interact with the outside world.
 
-## QU
-QUs or [Qubic Units](/learn/tokenomics) is the native coin and positioned as equivalent of "energy" units spent to run smart-contract and access other services in Qubic (e.g. donations to oracles). Yes, QUs can be used as money, but they are more than that. Transfers are feeless and notion of "fee" for smart contracts doesn't make much sense, because qus are destroyed, not given to computors. When one asks an oracle he "burns" QUs as a sacrifice, not as a payment, it's not even guaranteed that the oracle will answer. 
+## $QUBIC
+QUs or QUBIC [Qubic Units](/learn/tokenomics) is the native coin and positioned as equivalent of "energy" units spent to run smart contracts and access other services in Qubic (e.g. donations to oracles). Yes, QUs can be used as money, but they are more than that. Transfers are feeless and notion of "fee" for smart contracts doesn't make much sense, because qus are destroyed, not given to computors. When one asks an oracle he "burns" QUs as a sacrifice, not as a payment, it's not even guaranteed that the oracle will answer. 
 
 ## Quorum
 A quorum is the minimum number of computors necessary to conduct any sort of business. In Qubic the [Quorum](/learn/quorum) is ⅔ (or 451) of all Computors to reach consensus.
@@ -46,7 +46,7 @@ A quorum is the minimum number of computors necessary to conduct any sort of bus
 Self-executing contracts with the terms of the agreement directly written into code. Qubic's first [smart contract](/learn/smart-contracts) was an Initial Public Offering ([IPO](/learn/ipo)) of 676 shares for a decentralized exchange (DEX) named [Qx](/learn/qx).
 
 ## Spectrum
-Qubic's equivalent of a ledger. In the [Spectrum](/learn/spectrum) the energy (i.e. QUs) per Identity is stored. Qubic itself doesn not keep track of transactions.
+Qubic's equivalent of a ledger. In the [Spectrum](/learn/spectrum) the energy (i.e. QUs) per Identity is stored. Qubic itself does not not keep track of transactions.
 
 ## Ticks
 In the Qubic ecosystem, the tick is the interval within which the Quorum commes to an agreement on transactions and the outcome computed smart contracts. A single tick can last a very short interval of time (below 1 second).

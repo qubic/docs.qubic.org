@@ -10,8 +10,9 @@ Qubic offers various wallet options to suit different user needs and preferences
 
 ## Wallets by the Core Team
 
-1. Web Wallet: https://wallet.qubic.li
-2. iOS Wallet
+1. Web Wallet: https://wallet.qubic.org
+2. iOS Wallet: https://apps.apple.com/us/app/qubic-wallet/id6502265811
+3. Android Wallet: https://play.google.com/store/apps/details?id=org.qubic.wallet&pli=1
 
 To view the source code of the official wallet app developed by the core team, visit the GitHub repository: https://github.com/qubic/wallet-app
 
@@ -23,9 +24,13 @@ To view the source code of the official wallet app developed by the core team, v
 
 For detailed information and links to all available wallets, please visit https://qubic.org/#wallets.
 
+## Hardware Wallets
+
+1. HashWallet: https://www.gethashwallet.com/qubic-wallet
+
 ## Types of Wallets
 
-Qubic wallets can be categorized into two main types:
+Qubic wallets can be categorised into two main types:
 
 1. Direct Network Connected Wallet
 2. Proxied Wallet
