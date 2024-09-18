@@ -207,6 +207,8 @@ const sidebars = {
       label: 'Hackathons',
       items: [
         'hackathon/hackathon',
+        'hackathon/bridge',
+        'hackathon/qx-interface',
       ],
     },
   ],
