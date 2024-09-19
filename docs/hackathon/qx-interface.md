@@ -33,7 +33,7 @@ Here are all the assets that Qubic currently has:
 
 
 ```shell
-~ curl http://95.216.243.140/v1/qx/getAssetAskOrders?assetName=CFB&issuerId=CFBMEMZOIDEXQAUXYYSZIURADQLAPWPMNJXQSNVQZAHYVOPYUKKJBJUCTVJL | jq
+~ curl https://api.qubic.org/v1/qx/getAssetAskOrders?assetName=CFB&issuerId=CFBMEMZOIDEXQAUXYYSZIURADQLAPWPMNJXQSNVQZAHYVOPYUKKJBJUCTVJL | jq
 {
   "orders": [
     {
@@ -53,7 +53,7 @@ Here are all the assets that Qubic currently has:
 Similar for buy orders:
 
 ```shell
-~ curl http://95.216.243.140/v1/qx/getAssetBidOrders?assetName=CFB&issuerId=CFBMEMZOIDEXQAUXYYSZIURADQLAPWPMNJXQSNVQZAHYVOPYUKKJBJUCTVJL | jq
+~ curl https://api.qubic.org/v1/qx/getAssetBidOrders?assetName=CFB&issuerId=CFBMEMZOIDEXQAUXYYSZIURADQLAPWPMNJXQSNVQZAHYVOPYUKKJBJUCTVJL | jq
 {
   "orders": [
     {
