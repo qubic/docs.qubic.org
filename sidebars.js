@@ -201,17 +201,6 @@ const sidebars = {
       ],
     },
   ],
-  hackathonSidebar: [
-    {
-      type: 'category',
-      label: 'Hackathons',
-      items: [
-        'hackathon/hackathon',
-        'hackathon/bridge',
-        'hackathon/qx-interface',
-      ],
-    },
-  ],
 };
 
 module.exports = sidebars;
