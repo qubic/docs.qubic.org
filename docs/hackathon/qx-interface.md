@@ -97,5 +97,5 @@ Similar for a user that wants to sell an asset, the same information is needed a
 
 ```
 
-
+pending
 
