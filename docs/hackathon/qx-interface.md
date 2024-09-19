@@ -19,7 +19,7 @@ There are 2 endpoints that need to be called in order to have the orders for an 
 In order to get sell orders for an asset you need to know the asset identifier which is a combination of both the asset name 
 and the issuer id of that asset. 
 
-Here are all of the assets that Qubic currently has:
+Here are all the assets that Qubic currently has:
 
 - CFB: CFBMEMZOIDEXQAUXYYSZIURADQLAPWPMNJXQSNVQZAHYVOPYUKKJBJUCTVJL
 - QX: ::PLACEHOLDER::
@@ -89,13 +89,243 @@ Having the information ready, you can use the js library to construct the buy tr
 
 ```javascript
 
-```
+/*
+* Example for creating a BID transaction on QX
+* Buying 100 CFB tokens at 4 QU each
+*/
 
-Similar for a user that wants to sell an asset, the same information is needed and he should create the sell order that will match the buy order:
+//Api parameters
+const baseURL = "https://rpc.qubic.org"
+const transactionBroadcastTickOffset = 10
+
+// Asset information
+const CFBAssetIssuer = "CFBMEMZOIDEXQAUXYYSZIURADQLAPWPMNJXQSNVQZAHYVOPYUKKJBJUCTVJL"
+const CFBAssetNameValue = valueOfAssetName("CFB")
+
+// Desired price and quantity
+const assetPrice = 4
+const assetQuantity = 100
+
+// Buyer information
+const identity = "OURIDENTITYHERE"
+const seed = "yourseedhere"
+
+
+//Utility functions
+
+//Transforms the asset name into a number used to identify the asset
+function valueOfAssetName(assetName) {
+
+    const bytes = new Uint8Array(8)
+    bytes.set(new TextEncoder().encode(assetName))
+
+    return new DataView(bytes.buffer).getInt32(0, true)
+}
+
+async function fetchLastTick(){
+    const response =  await fetch(baseURL + "/v1/status", {
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json",
+            "Accept": "application/json"
+        }
+    })
+
+    const data = await response.json()
+    return data["lastProcessedTick"]["tickNumber"]
+}
+
+
+function createQXOrderPayload(issuer, assetName, price, numberOfShares) {
+    return new QubicTransferQXOrderPayload({
+        issuer: new PublicKey(issuer),
+        assetName: new Long(assetName),
+        price: new Long(price),
+        numberOfShares: new Long(numberOfShares),
+    })
+}
+
+//Creates a transaction then signs it 
+async function createQXOrderTransaction(senderId, senderSeed, targetTick, payload, actionType) {
+    const transaction = new QubicTransaction()
+        .setSourcePublicKey(new PublicKey(senderId))
+        .setDestinationPublicKey(QubicDefinitions.QX_ADDRESS)
+        .setTick(targetTick)
+        .setInputSize(payload.getPackageSize())
+        .setAmount(new Long(0))
+        .setInputType(actionType)
+        .setPayload(payload);
+
+    if (actionType === QubicDefinitions.QX_ADD_BID_ORDER) {
+        transaction.setAmount(new Long(payload.getTotalAmount()))
+    }
+
+    await transaction.build(senderSeed)
+
+    return transaction;
+}
+
+//Encodes the signed transaction to Base64, then performs a request to the API to broadcast it
+async function broadcastTransaction(transaction) {
+
+    const encodedTransaction = transaction.encodeTransactionToBase64(transaction.getPackageData())
+
+    return await fetch(baseURL + "/v1/broadcast-transaction",
+        {
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            method: "POST",
+            body: JSON.stringify(
+                {
+                    encodedTransaction: encodedTransaction
+                }
+            )
+        });
+}
+
+async function main() {
+
+    //Get latest tick
+    const latestTick = await fetchLastTick();
+
+    //Assemble transaction payload
+    const orderPayload = createQXOrderPayload(CFBAssetIssuer, CFBAssetNameValue, assetPrice, assetQuantity);
+
+    //Assemble transaction
+    const transaction = await createQXOrderTransaction(identity, seed, latestTick + transactionBroadcastTickOffset, orderPayload, QubicDefinitions.QX_ADD_BID_ORDER)
+
+    //Broadcast transaction
+    const res = await broadcastTransaction(transaction)
+    console.log(await res.json())
+}
+
+await main()
+```
+> **Note:** Creating a bid (buy) order will remove the amount of funds needed to purchase the assets.  
+> If the funds are unavailable, the transaction will fail and no funds will bre transferred.
+
+Similar for a user that wants to sell an asset, the same information is needed, and he should create the sell order that will match the buy order:
 
 ```javascript
 
+/*
+* Example for creating an ASK transaction on QX
+* Selling 100 CFB tokens at 4 QU each
+*/
+
+//Api parameters
+const baseURL = "https://rpc.qubic.org"
+const transactionBroadcastTickOffset = 10
+
+// Asset information
+const CFBAssetIssuer = "CFBMEMZOIDEXQAUXYYSZIURADQLAPWPMNJXQSNVQZAHYVOPYUKKJBJUCTVJL"
+const CFBAssetNameValue = valueOfAssetName("CFB")
+
+// Desired price and quantity
+const assetPrice = 4
+const assetQuantity = 100
+
+// Buyer information
+const identity = "OURIDENTITYHERE"
+const seed = "yourseedhere"
+
+
+//Utility functions
+
+//Transforms the asset name into a number used to identify the asset
+function valueOfAssetName(assetName) {
+
+    const bytes = new Uint8Array(8)
+    bytes.set(new TextEncoder().encode(assetName))
+
+    return new DataView(bytes.buffer).getInt32(0, true)
+}
+
+async function fetchLastTick(){
+    const response =  await fetch(baseURL + "/v1/status", {
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json",
+            "Accept": "application/json"
+        }
+    })
+
+    const data = await response.json()
+    return data["lastProcessedTick"]["tickNumber"]
+}
+
+
+function createQXOrderPayload(issuer, assetName, price, numberOfShares) {
+    return new QubicTransferQXOrderPayload({
+        issuer: new PublicKey(issuer),
+        assetName: new Long(assetName),
+        price: new Long(price),
+        numberOfShares: new Long(numberOfShares),
+    })
+}
+
+//Creates a transaction then signs it 
+async function createQXOrderTransaction(senderId, senderSeed, targetTick, payload, actionType) {
+    const transaction = new QubicTransaction()
+        .setSourcePublicKey(new PublicKey(senderId))
+        .setDestinationPublicKey(QubicDefinitions.QX_ADDRESS)
+        .setTick(targetTick)
+        .setInputSize(payload.getPackageSize())
+        .setAmount(new Long(0))
+        .setInputType(actionType)
+        .setPayload(payload);
+
+    if (actionType === QubicDefinitions.QX_ADD_ASK_ORDER) {
+        transaction.setAmount(new Long(payload.getTotalAmount()))
+    }
+
+    await transaction.build(senderSeed)
+
+    return transaction;
+}
+
+//Encodes the signed transaction to Base64, then performs a request to the API to broadcast it
+async function broadcastTransaction(transaction) {
+
+    const encodedTransaction = transaction.encodeTransactionToBase64(transaction.getPackageData())
+
+    return await fetch(baseURL + "/v1/broadcast-transaction",
+        {
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            method: "POST",
+            body: JSON.stringify(
+                {
+                    encodedTransaction: encodedTransaction
+                }
+            )
+        });
+}
+
+async function main() {
+
+    //Get latest tick
+    const latestTick = await fetchLastTick();
+
+    //Assemble transaction payload
+    const orderPayload = createQXOrderPayload(CFBAssetIssuer, CFBAssetNameValue, assetPrice, assetQuantity);
+
+    //Assemble transaction
+    const transaction = await createQXOrderTransaction(identity, seed, latestTick + transactionBroadcastTickOffset, orderPayload, QubicDefinitions.QX_ADD_BID_ORDER)
+
+    //Broadcast transaction
+    const res = await broadcastTransaction(transaction)
+    console.log(await res.json())
+}
+
+await main()
 ```
+> **Note:** Creating an ask (sell) order, as well as canceling orders, does not cost funds.  
+> Cancelling orders is done the same as in the previous example, but the order action needs to be `QX_REMOVE_ASK_ORDER` or `QX_REMOVE_BID_ORDER`, depending on which kind of order you wish to cancel.
 
 pending
 
