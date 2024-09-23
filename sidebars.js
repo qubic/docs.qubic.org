@@ -201,15 +201,6 @@ const sidebars = {
       ],
     },
   ],
-  hackathonSidebar: [
-    {
-      type: 'category',
-      label: 'Hackathons',
-      items: [
-        'hackathon/hackathon',
-      ],
-    },
-  ],
 };
 
 module.exports = sidebars;

@@ -156,4 +156,4 @@ For more detailed information on all available endpoints, please visit the [Qubi
 - **GET** `/v1/qx/getEntityBidOrders`
 - **GET** `/v1/qx/getFees`
 
-For interacting with these endpoints, use the base URL: `http://95.216.243.140`. For example, to get fees, you can use the following curl command:
+For interacting with these endpoints, use the base URL: `https://api.qubic.org`. For example, to get fees, you can use the following curl command:
