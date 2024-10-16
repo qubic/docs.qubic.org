@@ -6,13 +6,13 @@ Becoming a Computor on the Qubic platform involves a range of prerequisites rela
 
 * Processor (CPU): The processor's speed directly impacts the computational power of a Computor. More powerful processors can handle complex calculations more efficiently. Specific CPU requirements are:
 
-    * CPU Frequency: **4.2 GHz**
+    * CPU Frequency: **3+ GHz**
 
- Recommended CPU (as of Q1 2024): **AMD Ryzen 9 7950X3D**
+ Recommended CPU (as of Q4 2024): **AMD Epyc 24core+**
 
 * Memory (RAM): Adequate memory is crucial for smoothly running operations. More RAM allows a Computor to process larger amounts of data simultaneously. Specific RAM requirements are:
 
-    * RAM Size: **128 GB** (will likely rise to 192GB in Q2 2024)
+    * RAM Size: **1 TB** (will rise to 2TB in Q1 2025)
 
 * Storage: Storage requirements relate to the disk space needed to store the network's Spectrum, smart contracts, and other necessary data. Basically, you need a bit more space on the disk than you need RAM in order to write all data from the RAM back to the disk at the end of each epoch. Recommended storage requirements are:
 
