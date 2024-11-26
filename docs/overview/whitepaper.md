@@ -3,6 +3,7 @@ sidebar_label: 'Whitepaper'
 ---
 
 # Whitepaper
+Please find the current iteration of the whitepaper here: https://qubic.org/whitepaper
 
 
 ## Development Approach
