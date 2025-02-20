@@ -59,7 +59,7 @@ Now we can create a curl command to query the smart contract:
 ```
 
 curl -X 'POST' \
-  'https://testapi.qubic.org/v1/querySmartContract' \
+  'https://rpc.qubic.org/v1/querySmartContract' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
