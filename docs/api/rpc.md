@@ -12,7 +12,6 @@ For detailed information on the API, please refer to the [Qubic RPC Swagger Docu
 
 | Base Url | Version/State | Use Case |
 | -------- | ------- | ---- |
-| testapi.qubic.org  | V2 | Test RPC/API with the latest features. Use this in your development environment or to try out the latest features.    |
 | rpc-staging.qubic.org | V2 | Public RPC/API for staging (production testing) purposes. Normally only for internal Testing. Ask us if you want to test the latest features that will be in production soon.   |
 | rpc.qubic.org    | V1   | Public RPC/API for general purposes. Use this in your productive applications. |
 
